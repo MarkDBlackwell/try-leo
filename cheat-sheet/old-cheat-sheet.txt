@@ -1,0 +1,36 @@
+
+ In addition to using the mouse:
+
+ Alt+ D: Focus body pane (details)
+ Alt+ T: Focus tree pane
+ Alt+ VerticalArrow: Focus tree pane and select other subtree
+ Alt: Menu
+ Ctrl+ D: Move subtree down a line
+ Ctrl+ H: Edit node headline
+ Ctrl+ I: Insert sibling node
+ Ctrl+ L: Move subtree left
+ Ctrl+ R: Move subtree right
+ Ctrl+ S: Save outline
+ Ctrl+ Shift+ Z: Redo
+ Ctrl+ U: Move subtree up a line
+ Ctrl+ Z: Undo
+ Menu-Edit-Edit Headline...-Edit Headline: same as Ctrl+ H
+ Menu-Edit-Redo etc.: same as Ctrl+ Shift+ Z
+ Menu-Edit-Undo etc.: same as Ctrl+ Z
+ Menu-File-Save: same as Ctrl+ S
+ Menu-Outline-Insert Node: same as Ctrl+ I
+ Menu-Outline-Move...-Move Left: same as Ctrl+ L
+ Menu-Outline-Move...-Move Right: same as Ctrl+ R
+ Menu-Outline-Move...-Move Up: same as Ctrl+ U
+
+ Shift+ Insert: same as Ctrl+ I
+ Ctrl+ Insert: Insert child node
+ Ctrl+ N: New outline
+
+ With focus in tree pane:
+ LeftArrow: collapse subtree (or select parent node)
+ RightArrow: expand subtree
+ VerticalArrow: Select node
+ Ret: same as Alt+ D
+ Shift+ HorizontalArrow: same as Ctrl+ L or Ctrl+ R
+ Shift+ VerticalArrow: same as Ctrl+ U or Ctrl+ D
