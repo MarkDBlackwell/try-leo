@@ -1,0 +1,26 @@
+I am the first line.
+#@+leo-ver=5-thin
+#@+node:georgesawyer.20110727165932.1120: * @file alphabet.txt
+#@@first
+class << self;
+a=1>>2; end
+
+#@+<< az >>
+#@+node:georgesawyer.20110727171844.1124: ** << az >>
+a
+b
+c
+d
+#@-<< az >>
+#@+others
+#@+node:georgesawyer.20110727171844.1125: ** s1
+contents of s1 here
+#@+node:georgesawyer.20110727171844.1127: *3* s1-1
+contents of s1-1 here
+#@+node:georgesawyer.20110727171844.1128: *4* s1-1-1
+contents of s1-1-1 here
+#@+node:georgesawyer.20110727171844.1126: ** s2
+contents of s0 here
+#@-others
+was-all n
+#@-leo
