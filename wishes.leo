@@ -11,9 +11,16 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110729074331.1114" a="E"><vh>wishes</vh>
+<v t="georgesawyer.20110729093012.1497"><vh>default language</vh></v>
+<v t="georgesawyer.20110729093012.1496"><vh>background</vh></v>
+<v t="georgesawyer.20110729093012.1495"><vh>colors</vh></v>
+<v t="georgesawyer.20110729093012.1494"><vh>Ctrl+ Alt+</vh></v>
 <v t="georgesawyer.20110729070114.1569"><vh>multi-document save</vh></v>
-<v t="georgesawyer.20110729070114.1567" a="E"><vh>test cut and past between files</vh>
-<v t="georgesawyer.20110729070114.1568"><vh>subnode</vh></v>
+<v t="georgesawyer.20110729093012.1488" a="E"><vh>test cut and past between files</vh>
+<v t="georgesawyer.20110729093012.1489"><vh>subnode</vh></v>
+</v>
+<v t="georgesawyer.20110729093012.1492" a="E"><vh>test cut and paste between files</vh>
+<v t="georgesawyer.20110729093012.1493"><vh>subnode</vh></v>
 </v>
 <v t="georgesawyer.20110729070114.1555" a="E"><vh>one click</vh>
 <v t="georgesawyer.20110729070114.1554"><vh>headline to body</vh></v>
@@ -48,11 +55,32 @@ Replace all multiple whitespace by a single space.
 Uncapitalize the headline first word.</t>
 <t tx="georgesawyer.20110729070114.1558"></t>
 <t tx="georgesawyer.20110729070114.1560"></t>
-<t tx="georgesawyer.20110729070114.1567"></t>
-<t tx="georgesawyer.20110729070114.1568"></t>
 <t tx="georgesawyer.20110729070114.1569"></t>
 <t tx="georgesawyer.20110729074331.1114">Things I feel I want to do, as a nooby user.
 In nooby tutorial, show how, and if necessary, implement.
-Keep my default-opened workbook (TODOs, really) in another location (actually, on Dropbox).</t>
+Keep my default-opened workbook (TODOs, really) in another location (actually, on Dropbox).
+As part of developing a presentation on Leo, I'm developing a Leo wish list.
+</t>
+<t tx="georgesawyer.20110729093012.1488"></t>
+<t tx="georgesawyer.20110729093012.1489"></t>
+<t tx="georgesawyer.20110729093012.1492"></t>
+<t tx="georgesawyer.20110729093012.1493"></t>
+<t tx="georgesawyer.20110729093012.1494">In Leo on Windows, 'Ctrl+ Alt+' keyboard commands are not presently working . The OS launches applications using Windows shortcut keys (Ctrl+ Alt+ &lt;letter (case-insensitive)&gt;), and reboots (or something more sophisticated) with (Ctrl+ Alt+ Del).
+I'm told that Adobe Creative Suite (e.g.) on Windows, Ctrl+ Alt+ S to save a document.
+
+Menu-Window-Expand Pane doesn't work, even immediately after Alt+ T.</t>
+<t tx="georgesawyer.20110729093012.1495">Selected text is too close in color to background to see.</t>
+<t tx="georgesawyer.20110729093012.1496"></t>
+<t tx="georgesawyer.20110729093012.1497">
+by a nooby 
+on each .leo file 
+and 
+on all .leo file 
+default language be 
+easily settable 
+without a node 
+(or prior to any nodes) 
+this is so when top-level nodes get moved 
+</t>
 </tnodes>
 </leo_file>
