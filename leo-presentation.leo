@@ -10,7 +10,9 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="georgesawyer.20110728215433.1114"><vh>Leo presentation</vh></v>
+<v t="georgesawyer.20110728215433.1114" a="E"><vh>Presentation: Literate Programming with Leo</vh>
+<v t="georgesawyer.20110729070114.1559"><vh>desktop outliner</vh></v>
+</v>
 <v t="georgesawyer.20110728215605.1116" a="E"><vh>blog post one</vh>
 <v t="georgesawyer.20110728215605.1117"><vh>title</vh></v>
 <v t="georgesawyer.20110728215605.1118"><vh>tags</vh></v>
@@ -83,5 +85,6 @@ More information:
 &lt;a href="http://www.haskell.org/pipermail/haskell-cafe/2009-November/068493.html"&gt;Develop in Haskell with Leo&lt;/a&gt;
 
 Copyright (c) 2011 Mark D. Blackwell.</t>
+<t tx="georgesawyer.20110729070114.1559"></t>
 </tnodes>
 </leo_file>

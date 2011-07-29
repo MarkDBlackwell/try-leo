@@ -11,26 +11,30 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110724102134.1121" a="E"><vh>Leo cheat sheet</vh>
-<v t="georgesawyer.20110724121756.3420" a="E"><vh>Format</vh>
-<v t="georgesawyer.20110724121756.3422"><vh>List</vh></v>
-<v t="georgesawyer.20110724121756.3421"><vh>Tree</vh></v>
+<v t="georgesawyer.20110729070114.1542"><vh>title</vh></v>
+<v t="georgesawyer.20110724121756.3420" a="E"><vh>format</vh>
+<v t="georgesawyer.20110724121756.3422"><vh>list</vh></v>
+<v t="georgesawyer.20110724121756.3421"><vh>tree</vh></v>
 </v>
-<v t="georgesawyer.20110724102134.1141"><vh>Tool</vh>
-<v t="georgesawyer.20110724102134.1139"><vh>Mouse</vh></v>
-<v t="georgesawyer.20110724102134.1140"><vh>Keyboard</vh></v>
+<v t="georgesawyer.20110724102134.1141" a="E"><vh>tool</vh>
+<v t="georgesawyer.20110724102134.1139"><vh>mouse</vh></v>
+<v t="georgesawyer.20110724102134.1140"><vh>keyboard</vh></v>
+<v t="georgesawyer.20110724102134.1130" a="E"><vh>object</vh>
+<v t="georgesawyer.20110724102134.1131"><vh>subtree</vh></v>
+<v t="georgesawyer.20110724102134.1135"><vh>node</vh></v>
 </v>
-<v t="georgesawyer.20110724102134.1130"><vh>Object</vh>
-<v t="georgesawyer.20110724102134.1131"><vh>Subtree</vh></v>
-<v t="georgesawyer.20110724102134.1135"><vh>Node</vh></v>
 </v>
-<v t="georgesawyer.20110724121756.3376" a="E"><vh>Outline manipulation method</vh>
-<v t="georgesawyer.20110724121756.3374"><vh>Mouse, WIMP'ly</vh></v>
-<v t="georgesawyer.20110724102134.1142" a="E"><vh>Control sequence</vh>
+<v t="georgesawyer.20110729070114.1541" a="E"><vh>commands</vh>
+<v t="georgesawyer.20110724121756.3376" a="E"><vh>outline manipulation method</vh>
+<v t="georgesawyer.20110724121756.3374"><vh>mouse, WIMP'ly</vh></v>
+<v t="georgesawyer.20110724102134.1142" a="E"><vh>control sequence</vh>
 <v t="georgesawyer.20110724121756.3381"><vh>Alt</vh></v>
 <v t="georgesawyer.20110724121756.3380"><vh>Alt+ VerticalArrow</vh></v>
 <v t="georgesawyer.20110724121756.3378"><vh>Alt+ D (data)</vh></v>
 <v t="georgesawyer.20110726113601.1434"><vh>Alt+ N</vh></v>
-<v t="georgesawyer.20110724121756.3379"><vh>Alt+ T</vh></v>
+<v t="georgesawyer.20110724121756.3379" a="E"><vh>Alt+ T</vh>
+<v t="georgesawyer.20110729070114.1540"><vh>comment</vh></v>
+</v>
 <v t="georgesawyer.20110724121756.3383"><vh>Ctrl+ D</vh></v>
 <v t="georgesawyer.20110724121756.3384"><vh>Ctrl+ H</vh></v>
 <v t="georgesawyer.20110724121756.3385"><vh>Ctrl+ I</vh></v>
@@ -62,7 +66,7 @@
 <v t="georgesawyer.20110726113601.1344"><vh>Read File Into Node</vh></v>
 </v>
 <v t="georgesawyer.20110724121756.3404" a="E"><vh>Save</vh>
-<v t="georgesawyer.20110724121756.3428"><vh>Same as</vh></v>
+<v t="georgesawyer.20110724121756.3428"><vh>same as</vh></v>
 </v>
 </v>
 <v t="georgesawyer.20110724121756.3405"><vh>Outline</vh>
@@ -111,6 +115,7 @@
 </v>
 <v t="georgesawyer.20110724121756.3419"><vh>Vertical</vh>
 <v t="georgesawyer.20110724121756.3444"><vh>Same as either of</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -216,5 +221,8 @@
 <t tx="georgesawyer.20110726113601.1436"></t>
 <t tx="georgesawyer.20110726113601.1437"></t>
 <t tx="georgesawyer.20110727232025.6803">The way to get a file into Leo.</t>
+<t tx="georgesawyer.20110729070114.1540">Preferred is Alt+ VerticalArrow, or Ctrl+ H for the same node.</t>
+<t tx="georgesawyer.20110729070114.1541"></t>
+<t tx="georgesawyer.20110729070114.1542">My cheat sheet of useful Leo commands.</t>
 </tnodes>
 </leo_file>

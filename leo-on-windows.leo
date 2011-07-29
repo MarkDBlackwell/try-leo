@@ -10,34 +10,82 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="georgesawyer.20110728194044.1114"><vh>created root node</vh></v>
-<v t="georgesawyer.20110728194109.1115"><vh>making association for Windows</vh></v>
-<v t="georgesawyer.20110728231000.1119"><vh>problem</vh></v>
-<v t="georgesawyer.20110728194109.1116"><vh>From Install.txt</vh></v>
+<v t="georgesawyer.20110728194044.1114"><vh>Leo on Windows</vh></v>
+<v t="georgesawyer.20110729070114.1379" a="E"><vh>howto</vh>
+<v t="georgesawyer.20110729070114.1378" a="E"><vh>create new .leo file</vh>
+<v t="georgesawyer.20110729070114.1381"><vh>steps</vh></v>
+</v>
+<v t="georgesawyer.20110728194109.1115" a="E"><vh>make file association for Windows</vh>
+<v t="georgesawyer.20110729070114.1377"><vh>steps</vh></v>
+</v>
+</v>
+<v t="georgesawyer.20110728231000.1119" a="E"><vh>problem</vh>
+<v t="georgesawyer.20110729070114.1562"><vh>find</vh></v>
+<v t="georgesawyer.20110729070114.1561"><vh>default language</vh></v>
+</v>
+<v t="georgesawyer.20110729070114.1538" a="E"><vh>trying</vh>
+<v t="georgesawyer.20110728194109.1116" a="E"><vh>From Install.txt</vh>
+<v t="georgesawyer.20110729070114.1539"><vh>running Leo from Python</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
-<t tx="georgesawyer.20110728194044.1114"></t>
-<t tx="georgesawyer.20110728194109.1115">In Windows Explorer
-Menu-tool-Folder options-File Types.
-In the Extensions column, select
-, 'LEO'.
-Click the Advanced button and under Actions, 
-select 'open' and click the 'edit' button.
-make under 'Application used to perform action' look like the following:
-C:\progra\Python32\pythonw.exe C:\progra\Leo-4.9-b4\launchLeo.py --file=%1
-Uncheck 'use DDE'. For DDE to work, Python would be talked with, and it would pass info to the already-running script, LaunchLeo.py.
-In Linux, how does bash tell an 
-already-running Leo to open another .leo file?
+<t tx="georgesawyer.20110728194044.1114">Leo is fairly mature.
+The Windows usability needs to be polished up.
+Usability for noobies needs to be polished up.</t>
+<t tx="georgesawyer.20110728194109.1115">The steps aren't ideal, because they allow multiple copies of the same file to be edited.
+
+If anyone knows how how a file can be 'launched' using an already running Leo, that would be interesting!
+
+LaunchLeo.py is a Python script, so Windows DDE would be communicating with the Python interpreter.
+
+For DDE to work, I suppose Python would be talked with, and it would pass info to the already-running script, LaunchLeo.py.
+
+In Linux, how does bash tell an already-running Leo to open another .leo file?
+
+Better would be to talk with a server program, as in Emacs, etc.
 </t>
-<t tx="georgesawyer.20110728194109.1116">import sys
-sys.path.append(r'/progra/leo-4.9-b4/')
-import leo
-;; worked for me:
-leo run()
-;; loaded Leo but did not find the file:
-leo run(filename=r'/Mark/develop/try-leo/alphabet.leo')
+<t tx="georgesawyer.20110728194109.1116">
 
 </t>
-<t tx="georgesawyer.20110728231000.1119">In a tree without any at-language directive, File-Import File gives an error message for language, 'MORE'. Instead, the default language should be, 'text'.</t>
+<t tx="georgesawyer.20110728231000.1119"></t>
+<t tx="georgesawyer.20110729070114.1377">In Windows Explorer, Menu-Tools-Folder Options-File Types.
+Find and select LEO in the Extensions column.
+Click the Advanced button.
+Under Actions, make sure 'open' is selected.
+Click the 'edit' button.
+In the box, 'Application used to perform action', paste this:
+C:\progra\Python32\pythonw.exe C:\progra\Leo-4.9-b4\launchLeo.py --file="%1"
+(The double-quotes are necessary because file and folder names ('My Documents', for example), can have embedded spaces.)
+Uncheck 'use DDE'.
+Click OK.
+Make sure 'Confirm open after download' is unchecked.
+Click OK.
+Now, if you click on any Leo file, an instance of Leo should be loaded for it.
+
+</t>
+<t tx="georgesawyer.20110729070114.1378"></t>
+<t tx="georgesawyer.20110729070114.1379"></t>
+<t tx="georgesawyer.20110729070114.1381">In Windows Explorer,
+Menu-File-New-Text Document.
+The temporary file name is selected already: replace it with, '&lt;your-desired-file-name&gt;.leo', and hit Enter.
+Hit enter again to open the empty file in Leo.
+In Leo, Ctrl+ S to save the file with some Leo information and clear some error messages.</t>
+<t tx="georgesawyer.20110729070114.1538"></t>
+<t tx="georgesawyer.20110729070114.1539">;; After doing:
+import sys
+sys.path.append(r'/progra/leo-4.9-b4/')
+import leo
+
+;; This worked for me:
+leo run()
+
+;; This loaded Leo but did not find the file:
+leo run(filename=r'/Mark/develop/try-leo/alphabet.leo')
+</t>
+<t tx="georgesawyer.20110729070114.1561">When a tree lacks an at-language directive, File-Import File uses (and gives error messages for) the Apple editing language, 'MORE'. Instead, the default language should be, 'text'.</t>
+<t tx="georgesawyer.20110729070114.1562">When I click on the Find tab, the Find and Change boxes are grayed out.
+Why is that?
+Because of 'Python not found'?</t>
 </tnodes>
 </leo_file>
