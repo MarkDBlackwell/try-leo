@@ -1,0 +1,62 @@
+#@+leo-ver=5-thin
+#@+node:georgesawyer.20110728225551.1129: * @thin C:\Mark\develop\try-leo\blog-post.txt
+One day, when I was looking for a new text editor, I found a recommendation for Leo in a review of (I think) mind-mapping tools.
+
+The software development tool, Leo ('Leonine Editor with Outlines'; see Joe Orr's <a href="http://www.3dtree.com/ev/e/sbooks/leo/sbframetoc_ie.htm">slideshow</a>, or w/s leo tutorial) improves software project readability, excellently and excitingly. But, it's not for programmers only.
+
+To start, all you have to do, (A) is enter an idea about any section of your text, and (B) incrementally develop (in Leo) an outline of your ideas, referring to sections of the text.
+
+For programmers: all you have to do to start, (A) is enter an idea about any (freely-chosen) section of your source code (e.g., its purpose), and (B) incrementally (in Leo) develop a thoughts outline, referring to sections of the code.
+
+The outlines have 'clonable' sections and multiple views; additions you make, many or few, are good, <a href="http://en.wikipedia.org/wiki/Literate_programming">literate programming</a>.
+
+Even while doing this, no other team members are impacted, even if they edit the same source files without Leo! In no way does it hide the project source files in its own folders, and it's compatible also with version control systems, such as Git. 
+
+How can Leo accomplish this? <a href="http://webpages.charter.net/edreamleo/nutshell.html">Leo in a Nutshell</a> explains. Creator of Leo, Edward K. Ream's <a href="http://slashdot.org/comments.pl?sid=38848&cid=4158746">view</a> is worth reading on Slashdot.
+
+Presumably all Leo needs to know about the possibly obscure languages used in your project is the syntax of how to form block- and single-line comments.
+
+Leo has plugins; its architecture is extensible by scripting. It also has borrowed much from Emacs.
+
+Here is how to install Leo on Windows XP in detail the way I did, using <a href="http://webpages.charter.net/edreamleo/slides/installation/slide-001.html">installation</a> instructions (or a <a href="http://webpages.charter.net/edreamleo/installing.html">fuller</a> version) on the website as a basis:
+
+Download and install minimally the latest Python-3 for Windows from <a href="http://www.python.org/">Python</a>'s official website--I used 'python-3.2.1.msi'--to 'C:\progra\Python32'.
+
+For Register Extensions, pick 'Entire feature will be installed on local hard drive'. For Documentation, Tcl/Tk and Utility Scripts, pick 'Feature will be installed when required'. For Test Suite, pick 'Entire feature will be unavailable'.
+
+Download and install minimally the latest binary package for Windows containing QT-4, the 'cross-platform application and UI framework' and Python bindings, PyQT-4 from its <a href="http://www.riverbankcomputing.co.uk/software/pyqt/download">developer</a>'s website; I used 'PyQt-Py3.2-x86-gpl-4.8.4-1.exe'.
+
+Leo requires 'Qt runtime'. To ease uninstalling later, select 'Start Menu shortcuts'. Unselect everything else, including Documentation, Examples, QScintilla and the developer tools Developer, Qt, and SIP.
+
+When PyQt asks you to specify a 'Python installation folder', give the same folder as above, 'C:\progra\Python32'; it goes there, in a subfolder.
+
+Download and install the latest Leo for Windows from its <a href="http://sourceforge.net/project/showfiles.php?group_id=3458&package_id=29106">download</a> page. Don't worry if you see the words, 'Old Files'; click where it says, 'Looking for the latest version'. I used 'LeoSetup-4.9-b4.exe'.
+
+Leo may complain, 'Python not found,' but that's okay. Select 'Leo', '.leo File Association' and 'Leo Start Menu', and for 'Destination Folder', give 'C:\progra\Leo-4.9-b4' or the equivalent. For Python Folder, give the same folder as above, 'C:\progra\Python32'. Specify Start Menu folder, 'Leo' and finish the installation.
+
+Open a command line window with Win+ R and go to the Leo program directory with 'cd \progra\leo*'. Type launchLeo.py. It should say something like, 'is Python 3: True', and a little while later (possibly a window) will ask you for, 'an id that identifies you uniquely'. After that, Leo's graphical window should pop up.
+
+From now on, you should be able to start Leo using the Windows Start menu.
+
+Further reading, introductory:
+<a href="http://webpages.charter.net/edreamleo/testimonials.html">Testimonial</a>
+<a href="http://www.cvisual.com/office-productivity/leo-why-i-love.asp">Why I love Leo</a> (Dan Rahmel)
+<a href="http://webpages.charter.net/edreamleo/WhatIsLeo.html">What makes Leo special</a>
+<a href="http://webpages.charter.net/edreamleo/preface.html">Manual introduction</a>
+<a href="http://www.literateprogramming.com/">LiterateProgramming.com</a>
+<a href="http://jtauber.com/blog/2004/05/15/using_the_leo_outliner_as_a_pim/">Blogpost: Using Leo as a personal information manager (PIM) (J.Tauber)</a>
+<a href="http://webpages.charter.net/edreamleo/front.html">Leo website</a>
+<a href="http://en.wikipedia.org/wiki/Leo_(text_editor)">Wikipedia</a>
+<a href="http://webpages.charter.net/edreamleo/slides.html">Leo website slideshow</a>
+<a href="http://webpages.charter.net/edreamleo/intro.html">Introductory tutorial</a>
+
+More information:
+<a href="http://groups.google.com/group/leo-editor/browse_thread/thread/3e75787223ee9303?pli=1">Ream's thoughts on Joe Orr's slideshow</a>
+<a href="http://webpages.charter.net/edreamleo/">All about Leo</a>
+<a href="http://webpages.charter.net/edreamleo/leoLinks.html">More Leo resources</a>
+<a href="http://www.jserv.com/jk_orr/xml/leo.htm">Joe Orr's Leo resource page</a>
+<a href="http://www.maphew.com/How_To/Installing_Leo_Editor_on_Windows">Installing Leo on Windows</a> (Matt Wilkie)
+<a href="http://www.haskell.org/pipermail/haskell-cafe/2009-November/068493.html">Develop in Haskell with Leo</a>
+
+Copyright (c) 2011 Mark D. Blackwell.
+#@-leo

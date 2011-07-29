@@ -23,11 +23,7 @@ expanded="georgesawyer.20110727171844.1125,georgesawyer.20110727171844.1127,"><v
 <v t="georgesawyer.20110727193109.1143"><vh>problem</vh></v>
 <v t="georgesawyer.20110727171844.1131" a="E"><vh>problem</vh>
 <v t="georgesawyer.20110727171844.1132" a="E"><vh>data</vh>
-<v t="georgesawyer.20110727171844.1143" a="EO"><vh>@file test-one.txt</vh>
-<v t="georgesawyer.20110727171844.1138" a="E"><vh>&lt;&lt; one &gt;&gt;</vh>
-<v t="georgesawyer.20110727171844.1139"><vh>s0</vh></v>
-</v>
-</v>
+<v t="georgesawyer.20110727171844.1143" a="E"><vh>@file test-one.txt</vh></v>
 </v>
 </v>
 </v>
@@ -44,13 +40,6 @@ expanded="georgesawyer.20110727171844.1125,georgesawyer.20110727171844.1127,"><v
   parent node: chevron one chevron
 at-all works thus, though.</t>
 <t tx="georgesawyer.20110727171844.1132"></t>
-<t tx="georgesawyer.20110727171844.1138">a
-b
-c
-d</t>
-<t tx="georgesawyer.20110727171844.1139">contents of s0 here</t>
-<t tx="georgesawyer.20110727171844.1143">&lt;&lt; one &gt;&gt;
-@others</t>
 <t tx="georgesawyer.20110727193109.1143">Creating a new at-file node (with Ctrl- at-file) didn't read the external file, but emptied it. How to read externally changed files in again?</t>
 <t tx="georgesawyer.20110727193109.1144">error message says, &lt;file name. has been modified outside of Leo. Okay to overwrite?
 It should say, modified both inside and outside Leo. Leo doesn't look for this if it won't be writing that file, so file being modified outside is no problem in itself, just reconciling. It should not ask, okay to overwrite? but write to an altered name in a way that people can reconcile with a version control system.</t>

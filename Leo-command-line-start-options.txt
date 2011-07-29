@@ -1,0 +1,30 @@
+C:\progra\Leo-4.9-b4>launchLeo.py --help
+*** isPython3: True
+Usage: launchLeo.py [options]
+
+Options:
+  -h, --help            show this help message and exit
+  -c ONE_CONFIG_PATH, --config=ONE_CONFIG_PATH
+                        use a single configuration file
+  --debug               enable debugging support
+  -f FILENAME, --file=FILENAME
+                        load a file at startup
+  --gui=GUI             gui to use (qt/qttabs)
+  --minimized           start minimized
+  --maximized           start maximized (Qt only)
+  --fullscreen          start fullscreen (Qt only)
+  --ipython             enable ipython support
+  --no-cache            disable reading of cached files
+  --no-splash           disable the splash screen
+  --silent              disable all log messages
+  --screen-shot=SCREENSHOT_FN
+                        take a screen shot and then exit
+  --script=SCRIPT       execute a script and then exit
+  --script-window=SCRIPT_WINDOW
+                        open a window for scripts
+  --select=SELECT       headline or gnx of node to select
+  --version             print version number and exit
+  --window-size=WINDOW_SIZE
+                        initial window size in height x width format
+
+C:\progra\Leo-4.9-b4>
