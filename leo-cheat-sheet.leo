@@ -32,10 +32,15 @@
 <v t="georgesawyer.20110724121756.3380"><vh>Alt+ VerticalArrow</vh></v>
 <v t="georgesawyer.20110724121756.3378"><vh>Alt+ D (data)</vh></v>
 <v t="georgesawyer.20110726113601.1434"><vh>Alt+ N</vh></v>
-<v t="georgesawyer.20110724121756.3379" a="E"><vh>Alt+ T</vh>
+<v t="georgesawyer.20110724121756.3379"><vh>Alt+ T</vh>
 <v t="georgesawyer.20110729070114.1540"><vh>comment</vh></v>
 </v>
+<v t="georgesawyer.20110730202256.3641"><vh>Alt+ U</vh></v>
+<v t="georgesawyer.20110730202256.3642"><vh>newHeadline</vh></v>
+<v t="georgesawyer.20110730202256.3640"><vh>Alt+ X</vh></v>
 <v t="georgesawyer.20110724121756.3383"><vh>Ctrl+ D</vh></v>
+<v t="georgesawyer.20110730202256.3644"><vh>Ctrl+ G</vh></v>
+<v t="georgesawyer.20110730202256.3645"><vh>newHeadline</vh></v>
 <v t="georgesawyer.20110724121756.3384"><vh>Ctrl+ H</vh></v>
 <v t="georgesawyer.20110724121756.3385"><vh>Ctrl+ I</vh></v>
 <v t="georgesawyer.20110724121756.3395"><vh>Ctrl+ Insert</vh></v>
@@ -224,5 +229,14 @@
 <t tx="georgesawyer.20110729070114.1540">Preferred is Alt+ VerticalArrow, or Ctrl+ H for the same node.</t>
 <t tx="georgesawyer.20110729070114.1541"></t>
 <t tx="georgesawyer.20110729070114.1542">My cheat sheet of useful Leo commands.</t>
+<t tx="georgesawyer.20110730202256.3640">
+Focus Minibuffer</t>
+<t tx="georgesawyer.20110730202256.3641">Enter argument</t>
+<t tx="georgesawyer.20110730202256.3642"></t>
+<t tx="georgesawyer.20110730202256.3644">Exit Minibuffer; focus body                 
+
+
+</t>
+<t tx="georgesawyer.20110730202256.3645"></t>
 </tnodes>
 </leo_file>

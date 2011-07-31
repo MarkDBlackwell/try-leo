@@ -10,7 +10,11 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="georgesawyer.20110728194044.1114"><vh>Leo on Windows</vh></v>
+<v t="georgesawyer.20110728194044.1114" a="E"><vh>Leo on Windows</vh>
+<v t="georgesawyer.20110730202256.3482"><vh>close document</vh></v>
+<v t="georgesawyer.20110730202256.1250"><vh>drag lowest icon</vh></v>
+</v>
+<v t="georgesawyer.20110730160338.3498"><vh>created file myLeoSettings.leo for personal settings</vh></v>
 <v t="georgesawyer.20110729070114.1379" a="E"><vh>howto</vh>
 <v t="georgesawyer.20110729070114.1378" a="E"><vh>create new .leo file</vh>
 <v t="georgesawyer.20110729070114.1381"><vh>steps</vh></v>
@@ -22,10 +26,10 @@
 <v t="georgesawyer.20110728231000.1119" a="E"><vh>problem</vh>
 <v t="georgesawyer.20110729070114.1562"><vh>find</vh></v>
 <v t="georgesawyer.20110729070114.1561"><vh>default language</vh></v>
-</v>
 <v t="georgesawyer.20110729070114.1538" a="E"><vh>trying</vh>
 <v t="georgesawyer.20110728194109.1116" a="E"><vh>From Install.txt</vh>
 <v t="georgesawyer.20110729070114.1539"><vh>running Leo from Python</vh></v>
+</v>
 </v>
 </v>
 </vnodes>
@@ -87,5 +91,8 @@ leo run(filename=r'/Mark/develop/try-leo/alphabet.leo')
 <t tx="georgesawyer.20110729070114.1562">When I click on the Find tab, the Find and Change boxes are grayed out.
 Why is that?
 Because of 'Python not found'?</t>
+<t tx="georgesawyer.20110730160338.3498"></t>
+<t tx="georgesawyer.20110730202256.1250">Dragging the lowest icon downward produces a cloud of noise: some bad graphic.</t>
+<t tx="georgesawyer.20110730202256.3482">Menu-File-Close closes a single document. It says is Alt+ F4. On Windows, this is for closing the application.</t>
 </tnodes>
 </leo_file>

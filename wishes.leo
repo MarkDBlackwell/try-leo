@@ -11,6 +11,9 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110729074331.1114" a="E"><vh>wishes</vh>
+<v t="georgesawyer.20110730202256.3643"><vh>Alt+ U</vh></v>
+<v t="georgesawyer.20110730202256.1219"><vh>at-url</vh></v>
+<v t="georgesawyer.20110730171633.1463"><vh>navigation</vh></v>
 <v t="georgesawyer.20110729093012.1497"><vh>default language</vh></v>
 <v t="georgesawyer.20110729093012.1496"><vh>background</vh></v>
 <v t="georgesawyer.20110729093012.1495"><vh>colors</vh></v>
@@ -36,6 +39,7 @@
 <v t="georgesawyer.20110729070114.1547"><vh>cut and paste among .leo files.</vh></v>
 <v t="georgesawyer.20110729070114.1544"><vh>find</vh></v>
 </v>
+<v t="georgesawyer.20110730202256.1220"><vh>quitting</vh></v>
 </vnodes>
 <tnodes>
 <t tx="georgesawyer.20110729070114.1544">For noobies, Menu-Edit-Find should show a place to enter optional replacement text. Now, it's just finding.</t>
@@ -82,5 +86,9 @@ without a node
 (or prior to any nodes) 
 this is so when top-level nodes get moved 
 </t>
+<t tx="georgesawyer.20110730171633.1463">Navigate among the open .leo files with the keyboard, like Ctrl+ Tab and Ctrl+ Shift+ Tab in others</t>
+<t tx="georgesawyer.20110730202256.1219">Tutorial 'outlines' 'Opening URLs Automatically' asays brings up page in default browser, but not system default browser for me. IE instead of SeaMonkey.</t>
+<t tx="georgesawyer.20110730202256.1220">Ctrl+ Q quits all. I wish it didn't, as I was viewintg lots of f.files.</t>
+<t tx="georgesawyer.20110730202256.3643">Tutorial-Commands-Using the minibuffer: has a typo of Ctrl-U instead of Alt-U</t>
 </tnodes>
 </leo_file>
