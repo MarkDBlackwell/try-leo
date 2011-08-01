@@ -11,6 +11,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110729074331.1114" a="E"><vh>wishes</vh>
+<v t="georgesawyer.20110801054556.1795"><vh>Ctrl+ Q</vh></v>
 <v t="georgesawyer.20110730202256.3643"><vh>Alt+ U</vh></v>
 <v t="georgesawyer.20110730202256.1219"><vh>at-url</vh></v>
 <v t="georgesawyer.20110730171633.1463"><vh>navigation</vh></v>
@@ -90,5 +91,6 @@ this is so when top-level nodes get moved
 <t tx="georgesawyer.20110730202256.1219">Tutorial 'outlines' 'Opening URLs Automatically' asays brings up page in default browser, but not system default browser for me. IE instead of SeaMonkey.</t>
 <t tx="georgesawyer.20110730202256.1220">Ctrl+ Q quits all. I wish it didn't, as I was viewintg lots of f.files.</t>
 <t tx="georgesawyer.20110730202256.3643">Tutorial-Commands-Using the minibuffer: has a typo of Ctrl-U instead of Alt-U</t>
+<t tx="georgesawyer.20110801054556.1795">Ctrl+ Q quits Leo without confirmation, which is awkward since I had lots of files open and is no 'open last session'.</t>
 </tnodes>
 </leo_file>

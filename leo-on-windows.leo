@@ -11,6 +11,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110728194044.1114" a="E"><vh>Leo on Windows</vh>
+<v t="georgesawyer.20110801054556.1802"><vh>@url</vh></v>
 <v t="georgesawyer.20110730202256.3482"><vh>close document</vh></v>
 <v t="georgesawyer.20110730202256.1250"><vh>drag lowest icon</vh></v>
 </v>
@@ -94,5 +95,6 @@ Because of 'Python not found'?</t>
 <t tx="georgesawyer.20110730160338.3498"></t>
 <t tx="georgesawyer.20110730202256.1250">Dragging the lowest icon downward produces a cloud of noise: some bad graphic.</t>
 <t tx="georgesawyer.20110730202256.3482">Menu-File-Close closes a single document. It says is Alt+ F4. On Windows, this is for closing the application.</t>
+<t tx="georgesawyer.20110801054556.1802">Opens in IE, not in the system default browser as it should (in my case, SeaMonkey).</t>
 </tnodes>
 </leo_file>
