@@ -13,14 +13,6 @@ c
 d
 #@-<< az >>
 #@+others
-#@+node:georgesawyer.20110727171844.1125: ** s1
-contents of s1 here
-#@+node:georgesawyer.20110727171844.1127: *3* s1-1
-contents of s1-1 here
-#@+node:georgesawyer.20110727171844.1128: *4* s1-1-1
-contents of s1-1-1 here
-#@+node:georgesawyer.20110727171844.1126: ** s2
-contents of s0 here
 #@-others
 was-all n
 #@-leo

@@ -12,23 +12,27 @@
 <vnodes>
 <v t="georgesawyer.20110724102134.1121" a="E"><vh>Leo cheat sheet</vh>
 <v t="georgesawyer.20110729070114.1542"><vh>title</vh></v>
-<v t="georgesawyer.20110724121756.3420" a="E"><vh>format</vh>
+<v t="georgesawyer.20110724121756.3420"><vh>format</vh>
 <v t="georgesawyer.20110724121756.3422"><vh>list</vh></v>
 <v t="georgesawyer.20110724121756.3421"><vh>tree</vh></v>
 </v>
-<v t="georgesawyer.20110724102134.1141" a="E"><vh>tool</vh>
+<v t="georgesawyer.20110724102134.1141"><vh>tool</vh>
 <v t="georgesawyer.20110724102134.1139"><vh>mouse</vh></v>
 <v t="georgesawyer.20110724102134.1140"><vh>keyboard</vh></v>
-<v t="georgesawyer.20110724102134.1130" a="E"><vh>object</vh>
+<v t="georgesawyer.20110724102134.1130"><vh>object</vh>
 <v t="georgesawyer.20110724102134.1131"><vh>subtree</vh></v>
 <v t="georgesawyer.20110724102134.1135"><vh>node</vh></v>
 </v>
 </v>
 <v t="georgesawyer.20110729070114.1541" a="E"><vh>commands</vh>
+<v t="georgesawyer.20110801203036.6172" a="E"><vh>names</vh>
+<v t="georgesawyer.20110801203036.6173"><vh>extract</vh></v>
+</v>
 <v t="georgesawyer.20110724121756.3376" a="E"><vh>outline manipulation method</vh>
 <v t="georgesawyer.20110724121756.3374"><vh>mouse, WIMP'ly</vh></v>
-<v t="georgesawyer.20110724102134.1142" a="E"><vh>control sequence</vh>
+<v t="georgesawyer.20110724102134.1142" a="E"><vh>sequence</vh>
 <v t="georgesawyer.20110724121756.3381"><vh>Alt</vh></v>
+<v t="georgesawyer.20110801203036.6165"><vh>Alt+</vh>
 <v t="georgesawyer.20110724121756.3380"><vh>Alt+ VerticalArrow</vh></v>
 <v t="georgesawyer.20110724121756.3378"><vh>Alt+ D (data)</vh></v>
 <v t="georgesawyer.20110726113601.1434"><vh>Alt+ N</vh></v>
@@ -36,11 +40,13 @@
 <v t="georgesawyer.20110729070114.1540"><vh>comment</vh></v>
 </v>
 <v t="georgesawyer.20110730202256.3641"><vh>Alt+ U</vh></v>
-<v t="georgesawyer.20110730202256.3642"><vh>newHeadline</vh></v>
 <v t="georgesawyer.20110730202256.3640"><vh>Alt+ X</vh></v>
+</v>
+<v t="georgesawyer.20110801203036.6166" a="E"><vh>Ctrl+</vh>
+<v t="georgesawyer.20110801203036.6164"><vh>Ctrl+ [</vh></v>
+<v t="georgesawyer.20110801203036.6163"><vh>Ctrl+ ]</vh></v>
 <v t="georgesawyer.20110724121756.3383"><vh>Ctrl+ D</vh></v>
 <v t="georgesawyer.20110730202256.3644"><vh>Ctrl+ G</vh></v>
-<v t="georgesawyer.20110730202256.3645"><vh>newHeadline</vh></v>
 <v t="georgesawyer.20110724121756.3384"><vh>Ctrl+ H</vh></v>
 <v t="georgesawyer.20110724121756.3385"><vh>Ctrl+ I</vh></v>
 <v t="georgesawyer.20110724121756.3395"><vh>Ctrl+ Insert</vh></v>
@@ -51,6 +57,32 @@
 <v t="georgesawyer.20110724121756.3390"><vh>Ctrl+ Shift+ Z</vh></v>
 <v t="georgesawyer.20110724121756.3434"><vh>Ctrl+ U</vh></v>
 <v t="georgesawyer.20110724121756.3392"><vh>Ctrl+ Z</vh></v>
+<v t="georgesawyer.20110724121756.3393" a="E"><vh>Shift+</vh>
+<v t="georgesawyer.20110724121756.3394" a="E"><vh>Insert</vh>
+<v t="georgesawyer.20110724121756.3429"><vh>Same as</vh></v>
+</v>
+</v>
+<v t="georgesawyer.20110724102134.1124" a="E"><vh>With focus in tree pane</vh>
+<v t="georgesawyer.20110724102134.1127" a="E"><vh>Arrow</vh>
+<v t="georgesawyer.20110724102134.1125"><vh>Left</vh></v>
+<v t="georgesawyer.20110724102134.1126"><vh>Right</vh></v>
+<v t="georgesawyer.20110724102134.1129"><vh>Vertical</vh></v>
+</v>
+<v t="georgesawyer.20110724121756.3411"><vh>Return</vh>
+<v t="georgesawyer.20110724121756.3443"><vh>Same as</vh></v>
+</v>
+<v t="georgesawyer.20110724121756.3416" a="E"><vh>Shift+</vh>
+<v t="georgesawyer.20110724121756.3418" a="E"><vh>Arrow</vh>
+<v t="georgesawyer.20110724121756.3417" a="E"><vh>Horizontal</vh>
+<v t="georgesawyer.20110724121756.3442"><vh>Same as either of</vh></v>
+</v>
+<v t="georgesawyer.20110724121756.3419" a="E"><vh>Vertical</vh>
+<v t="georgesawyer.20110724121756.3444"><vh>Same as either of</vh></v>
+</v>
+</v>
+</v>
+</v>
+</v>
 <v t="georgesawyer.20110724102134.1123" a="E"><vh>Menu</vh>
 <v t="georgesawyer.20110724121756.3397"><vh>Edit</vh>
 <v t="georgesawyer.20110724121756.3398" a="E"><vh>Edit Headline</vh>
@@ -74,7 +106,7 @@
 <v t="georgesawyer.20110724121756.3428"><vh>same as</vh></v>
 </v>
 </v>
-<v t="georgesawyer.20110724121756.3405"><vh>Outline</vh>
+<v t="georgesawyer.20110724121756.3405" a="E"><vh>Outline</vh>
 <v t="georgesawyer.20110726113601.1419"><vh>Delete Node</vh></v>
 <v t="georgesawyer.20110726113601.1435" a="E"><vh>Go To</vh>
 <v t="georgesawyer.20110726113601.1436" a="E"><vh>Go To Next Clone</vh>
@@ -86,8 +118,8 @@
 <v t="georgesawyer.20110724121756.3410" a="E"><vh>Insert Node</vh>
 <v t="georgesawyer.20110724121756.3424"><vh>Same as</vh></v>
 </v>
-<v t="georgesawyer.20110724121756.3406"><vh>Move</vh>
-<v t="georgesawyer.20110724121756.3407"><vh>Move Left</vh>
+<v t="georgesawyer.20110724121756.3406" a="E"><vh>Move</vh>
+<v t="georgesawyer.20110724121756.3407" a="E"><vh>Move Left</vh>
 <v t="georgesawyer.20110724121756.3425"><vh>Same as</vh></v>
 </v>
 <v t="georgesawyer.20110724121756.3408"><vh>Move Right</vh>
@@ -95,31 +127,6 @@
 </v>
 <v t="georgesawyer.20110724121756.3409"><vh>Move Up</vh>
 <v t="georgesawyer.20110724121756.3427"><vh>Same as</vh></v>
-</v>
-</v>
-</v>
-</v>
-<v t="georgesawyer.20110724121756.3393"><vh>Shift+</vh>
-<v t="georgesawyer.20110724121756.3394"><vh>Insert</vh>
-<v t="georgesawyer.20110724121756.3429"><vh>Same as</vh></v>
-</v>
-</v>
-<v t="georgesawyer.20110724102134.1124"><vh>With focus in tree pane</vh>
-<v t="georgesawyer.20110724102134.1127" a="E"><vh>Arrow</vh>
-<v t="georgesawyer.20110724102134.1125"><vh>Left</vh></v>
-<v t="georgesawyer.20110724102134.1126"><vh>Right</vh></v>
-<v t="georgesawyer.20110724102134.1129"><vh>Vertical</vh></v>
-</v>
-<v t="georgesawyer.20110724121756.3411"><vh>Return</vh>
-<v t="georgesawyer.20110724121756.3443"><vh>Same as</vh></v>
-</v>
-<v t="georgesawyer.20110724121756.3416" a="E"><vh>Shift+</vh>
-<v t="georgesawyer.20110724121756.3418" a="E"><vh>Arrow</vh>
-<v t="georgesawyer.20110724121756.3417"><vh>Horizontal</vh>
-<v t="georgesawyer.20110724121756.3442"><vh>Same as either of</vh></v>
-</v>
-<v t="georgesawyer.20110724121756.3419"><vh>Vertical</vh>
-<v t="georgesawyer.20110724121756.3444"><vh>Same as either of</vh></v>
 </v>
 </v>
 </v>
@@ -232,11 +239,16 @@
 <t tx="georgesawyer.20110730202256.3640">
 Focus Minibuffer</t>
 <t tx="georgesawyer.20110730202256.3641">Enter argument</t>
-<t tx="georgesawyer.20110730202256.3642"></t>
 <t tx="georgesawyer.20110730202256.3644">Exit Minibuffer; focus body                 
 
 
 </t>
-<t tx="georgesawyer.20110730202256.3645"></t>
+<t tx="georgesawyer.20110801203036.6163">Demote siblings following to be children</t>
+<t tx="georgesawyer.20110801203036.6164">Promote children to siblings</t>
+<t tx="georgesawyer.20110801203036.6165"></t>
+<t tx="georgesawyer.20110801203036.6166"></t>
+<t tx="georgesawyer.20110801203036.6172"></t>
+<t tx="georgesawyer.20110801203036.6173">Main extraction of text to node method.
+extract: first line becomes headline.</t>
 </tnodes>
 </leo_file>

@@ -1,5 +1,5 @@
 #@+leo-ver=5-thin
-#@+node:georgesawyer.20110728225551.1129: * @thin C:\Mark\develop\try-leo\blog-post.txt
+#@+node:georgesawyer.20110801130621.3408: * @thin C:\Mark\develop\try-leo\blog-post.txt
 One day, when I was looking for a new text editor, I found a recommendation for Leo in a review of (I think) mind-mapping tools.
 
 The software development tool, Leo ('Leonine Editor with Outlines'; see Joe Orr's <a href="http://www.3dtree.com/ev/e/sbooks/leo/sbframetoc_ie.htm">slideshow</a>, or w/s leo tutorial) improves software project readability, excellently and excitingly. But, it's not for programmers only.

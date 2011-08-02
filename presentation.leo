@@ -11,9 +11,19 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110728215433.1114" a="E"><vh>Presentation: Literate Programming with Leo</vh>
+<v t="georgesawyer.20110801203036.6178"><vh>bug file collector</vh></v>
+<v t="georgesawyer.20110801203036.6179"><vh>cross-cutting concerns file organizer</vh></v>
+<v t="georgesawyer.20110801203036.6180"><vh>easy Literate Programming (sort-of)</vh></v>
+<v t="georgesawyer.20110801203036.6168" a="E"><vh>avoid</vh>
+<v t="georgesawyer.20110801203036.6177" a="E"><vh>Leo clashing</vh>
+<v t="georgesawyer.20110801203036.6171" a="E"><vh>with Ruby code</vh>
+<v t="georgesawyer.20110801203036.6174"><vh>section heading (accidental)</vh></v>
+</v>
+</v>
+</v>
 <v t="georgesawyer.20110729070114.1559"><vh>desktop outliner</vh></v>
 </v>
-<v t="georgesawyer.20110728215605.1116" a="E"><vh>blog post one</vh>
+<v t="georgesawyer.20110728215605.1116"><vh>blog post one</vh>
 <v t="georgesawyer.20110728215605.1117"><vh>title</vh></v>
 <v t="georgesawyer.20110728215605.1118"><vh>tags</vh></v>
 <v t="georgesawyer.20110728215605.1119" a="E"><vh>content</vh>
@@ -86,5 +96,16 @@ More information:
 
 Copyright (c) 2011 Mark D. Blackwell.</t>
 <t tx="georgesawyer.20110729070114.1559"></t>
+<t tx="georgesawyer.20110801203036.6168">    </t>
+<t tx="georgesawyer.20110801203036.6171"></t>
+<t tx="georgesawyer.20110801203036.6174">You can use a left-chevron:
+    class &lt;&lt; some_object
+and a right-chevron:
+    print 65535 &gt;&gt; 6  #-&gt; 1024
+but you must split apart any line of Ruby code that contains both a left-chevron and (eventually) a right-chevron.</t>
+<t tx="georgesawyer.20110801203036.6177"></t>
+<t tx="georgesawyer.20110801203036.6178"></t>
+<t tx="georgesawyer.20110801203036.6179"></t>
+<t tx="georgesawyer.20110801203036.6180"></t>
 </tnodes>
 </leo_file>

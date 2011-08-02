@@ -10,14 +10,17 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="georgesawyer.20110729070114.1551" a="E"><vh>my style guidelines in .leo files</vh>
-<v t="georgesawyer.20110801203036.6203"><vh>top</vh></v>
-<v t="georgesawyer.20110729070114.1553"><vh>capitalization</vh></v>
+<v t="georgesawyer.20110801203036.6331" a="E"><vh>CSS selector objects</vh>
+<v t="georgesawyer.20110801203036.6256" a="E"><vh>presentation</vh>
+<v t="georgesawyer.20110801203036.6260"><vh>object</vh></v>
+<v t="georgesawyer.20110801203036.6258"><vh>method</vh></v>
+</v>
 </v>
 </vnodes>
 <tnodes>
-<t tx="georgesawyer.20110729070114.1551"></t>
-<t tx="georgesawyer.20110729070114.1553">Keep the first word in headlines uncapitalized.</t>
-<t tx="georgesawyer.20110801203036.6203">have a single, top node so expand to levels works for all nodes.</t>
+<t tx="georgesawyer.20110801203036.6256"></t>
+<t tx="georgesawyer.20110801203036.6258"></t>
+<t tx="georgesawyer.20110801203036.6260"></t>
+<t tx="georgesawyer.20110801203036.6331"></t>
 </tnodes>
 </leo_file>
