@@ -12,6 +12,15 @@
 <vnodes>
 <v t="georgesawyer.20110728194044.1114" a="E"><vh>Leo on Windows</vh>
 <v t="georgesawyer.20110801054556.1802"><vh>@url</vh></v>
+<v t="georgesawyer.20110802081402.2015"><vh>move this to problems leo</vh></v>
+<v t="georgesawyer.20110802081402.1999"><vh>generate.rb</vh>
+<v t="georgesawyer.20110802081402.2011" a="E"><vh>generate.rb</vh>
+<v t="georgesawyer.20110802081402.2012"><vh>add function to find all YAML files.</vh></v>
+<v t="georgesawyer.20110802081402.2013"><vh>chop up with Leo</vh></v>
+</v>
+<v t="georgesawyer.20110802081402.2000"><vh>add function to find all YAML files.</vh></v>
+<v t="georgesawyer.20110802081402.2001"><vh>chop up with Leo</vh></v>
+</v>
 <v t="georgesawyer.20110730202256.3482"><vh>close document</vh></v>
 <v t="georgesawyer.20110730202256.1250"><vh>drag lowest icon</vh></v>
 </v>
@@ -96,5 +105,31 @@ Because of 'Python not found'?</t>
 <t tx="georgesawyer.20110730202256.1250">Dragging the lowest icon downward produces a cloud of noise: some bad graphic.</t>
 <t tx="georgesawyer.20110730202256.3482">Menu-File-Close closes a single document. It says is Alt+ F4. On Windows, this is for closing the application.</t>
 <t tx="georgesawyer.20110801054556.1802">Opens in IE, not in the system default browser as it should (in my case, SeaMonkey).</t>
+<t tx="georgesawyer.20110802081402.1999"></t>
+<t tx="georgesawyer.20110802081402.2000"></t>
+<t tx="georgesawyer.20110802081402.2001"></t>
+<t tx="georgesawyer.20110802081402.2011"></t>
+<t tx="georgesawyer.20110802081402.2012"></t>
+<t tx="georgesawyer.20110802081402.2013"></t>
+<t tx="georgesawyer.20110802081402.2015">
+
+Highlighted text is invisible.
+
+install.txt says put path to leo in windows environment variable PYTHONPATH
+
+
+For a user who does not use Python, this is all new.
+Say, open a command line window (with Win-R) and cd C:\progra\Python32
+type:
+python.exe --help
+under 'Other environment variables:', see:
+PYTHONPATH   : ';'-separated list of directories prefixed to the
+               default module search path.  The result is sys.path.
+
+Good to say, use (on XP) 'System variables', not 'User variables for &lt;user&gt;'.
+
+C:\progra\Leo-4.9-b4\
+will go into effect on the next, new, commnd-line window (make with Win-R).
+make up a Systen variable</t>
 </tnodes>
 </leo_file>

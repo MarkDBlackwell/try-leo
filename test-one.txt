@@ -1,14 +1,1 @@
-#@+leo-ver=5-thin
-#@+node:georgesawyer.20110727171844.1143: * @file test-one.txt
-#@+<< one >>
-#@+node:georgesawyer.20110727171844.1138: ** << one >>
-a
-b
-c
-d
-#@-<< one >>
-#@+others
-#@+node:georgesawyer.20110727171844.1139: ** s0
-contents of s0 here
-#@-others
-#@-leo
++ App
