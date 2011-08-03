@@ -1,1 +1,4 @@
-+ App
+#@+leo-ver=5-thin
+#@+node:georgesawyer.20110801203036.6006: * @file test-one.txt
+App
+#@-leo

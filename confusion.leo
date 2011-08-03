@@ -11,7 +11,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110801203036.5995" a="E"><vh>Information picked up</vh>
-<v t="georgesawyer.20110801203036.5996"><vh>confusions</vh>
+<v t="georgesawyer.20110801203036.5996" a="E"><vh>confusions</vh>
 <v t="georgesawyer.20110801203036.5997" a="E"><vh>tutorial beginning 'The Leo Tutorial': http://webpages.charter.net/edreamleo/intro.html</vh>
 <v t="georgesawyer.20110801203036.5998"><vh>problem</vh></v>
 <v t="georgesawyer.20110801203036.5999"><vh>problem</vh></v>
@@ -21,7 +21,7 @@
 <v t="georgesawyer.20110801203036.6003"><vh>problem</vh></v>
 <v t="georgesawyer.20110801203036.6004" a="E"><vh>problem</vh>
 <v t="georgesawyer.20110801203036.6005" a="E"><vh>data</vh>
-<v t="georgesawyer.20110801203036.6006" a="E"><vh>@file test-one.txt</vh></v>
+<v t="georgesawyer.20110801203036.6006"><vh>@file test-one.txt</vh></v>
 </v>
 </v>
 </v>
