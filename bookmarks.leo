@@ -11,6 +11,9 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110802175116.1241" a="E"><vh>bookmarks</vh>
+<v t="georgesawyer.20110803103500.1234"><vh>@url</vh></v>
+<v t="georgesawyer.20110803103500.1233"><vh>@url</vh></v>
+<v t="georgesawyer.20110803103500.1232"><vh>@url</vh></v>
 <v t="georgesawyer.20110803051734.1760" a="E"><vh>outliner</vh>
 <v t="georgesawyer.20110803051734.1762"><vh>@url </vh></v>
 <v t="georgesawyer.20110803051734.1763"><vh>@edit C:/Documents and Settings/Mark/My Documents/Dropbox/Comparison of Outliners.URL</vh></v>
@@ -28,12 +31,15 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="georgesawyer.20110802175116.1241"></t>
+<t tx="georgesawyer.20110802175116.1241">http://www.codeproject.com/Tips/105638/A-quick-introduction-Create-an-MSI-installer-with-.aspx</t>
 <t tx="georgesawyer.20110802175116.1242"></t>
 <t tx="georgesawyer.20110802175116.1243"></t>
 <t tx="georgesawyer.20110803051734.1759"></t>
 <t tx="georgesawyer.20110803051734.1760"></t>
 <t tx="georgesawyer.20110803051734.1761"></t>
 <t tx="georgesawyer.20110803051734.1762"></t>
+<t tx="georgesawyer.20110803103500.1232">http://www.codeproject.com/Tips/105638/A-quick-introduction-Create-an-MSI-installer-with-.aspx</t>
+<t tx="georgesawyer.20110803103500.1233">http://wix.tramontana.co.hu/tutorial</t>
+<t tx="georgesawyer.20110803103500.1234">http://wix.tramontana.co.hu/tutorial/user-interface/custom-settings</t>
 </tnodes>
 </leo_file>

@@ -10,13 +10,15 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="georgesawyer.20110730160338.3503"><vh>@@settings</vh></v>
-<v t="georgesawyer.20110803073613.1132" a="E"><vh>@settings</vh>
-<v t="georgesawyer.20110803073613.1133"><vh>@enabled-plugins</vh></v>
+<v t="georgesawyer.20110803084117.3457" a="E"><vh>@settings</vh>
+<v t="georgesawyer.20110803084117.3456" a="E"><vh>my additions</vh>
 <v t="georgesawyer.20110730160338.3504" a="E"><vh>Files</vh>
 <v t="georgesawyer.20110730160338.3505"><vh>Leo files</vh></v>
 <v t="georgesawyer.20110803051734.2186"><vh>@string default_leo_file = C:\Documents and Settings\Mark\My Documents\develop\try-leo\plan.leo</vh></v>
 </v>
+</v>
+<v t="georgesawyer.20110803084117.3455" a="E"><vh>from quickstart.leo</vh>
+<v t="georgesawyer.20110803073613.1133"><vh>@enabled-plugins</vh></v>
 <v t="georgesawyer.20110803073613.1134"><vh>@@string initial_split_orientation = horizontal</vh></v>
 <v t="georgesawyer.20110803073613.1135" a="E"><vh>suggested style sheets</vh>
 <v t="georgesawyer.20110803073613.1136" a="E"><vh>default look (Linux)</vh>
@@ -29,13 +31,12 @@
 <v t="georgesawyer.20110803073613.1140"><vh>@int qt_max_colorized_chars = 200000</vh></v>
 <v t="georgesawyer.20110803073613.1141"><vh>@data contextmenu_commands</vh></v>
 </v>
+</v>
 </vnodes>
 <tnodes>
-<t tx="georgesawyer.20110730160338.3503"></t>
 <t tx="georgesawyer.20110730160338.3504"></t>
-<t tx="georgesawyer.20110730160338.3505"></t>
+<t tx="georgesawyer.20110730160338.3505">What did I want to put, here?</t>
 <t tx="georgesawyer.20110803051734.2186"></t>
-<t tx="georgesawyer.20110803073613.1132"></t>
 <t tx="georgesawyer.20110803073613.1133"># Leo loads plugins in the order they appear here.
 # File names may be indented as desired.
 
@@ -433,5 +434,8 @@ If &gt; 0, only nodes whose body text are smaller than this limit are colorized.
 
 # stickynote Create a sticky note
 # read-at-file-nodes Read file node</t>
+<t tx="georgesawyer.20110803084117.3455"></t>
+<t tx="georgesawyer.20110803084117.3456"></t>
+<t tx="georgesawyer.20110803084117.3457"></t>
 </tnodes>
 </leo_file>

@@ -31,8 +31,11 @@
 <v t="georgesawyer.20110724121756.3376" a="E"><vh>outline manipulation method</vh>
 <v t="georgesawyer.20110724121756.3374"><vh>mouse, WIMP'ly</vh></v>
 <v t="georgesawyer.20110724102134.1142" a="E"><vh>sequence</vh>
+<v t="georgesawyer.20110803115044.1629" a="E"><vh>keyboard</vh>
 <v t="georgesawyer.20110724121756.3381"><vh>Alt</vh></v>
-<v t="georgesawyer.20110801203036.6165"><vh>Alt+</vh>
+<v t="georgesawyer.20110801203036.6165" a="E"><vh>Alt+</vh>
+<v t="georgesawyer.20110803115044.1638"><vh>Alt+ Home</vh></v>
+<v t="georgesawyer.20110803115044.1642"><vh>Alt+ End</vh></v>
 <v t="georgesawyer.20110724121756.3380"><vh>Alt+ VerticalArrow</vh></v>
 <v t="georgesawyer.20110724121756.3378"><vh>Alt+ D (data)</vh></v>
 <v t="georgesawyer.20110726113601.1434"><vh>Alt+ N</vh></v>
@@ -54,7 +57,12 @@
 <v t="georgesawyer.20110724121756.3396"><vh>Ctrl+ N</vh></v>
 <v t="georgesawyer.20110724121756.3387"><vh>Ctrl+ R</vh></v>
 <v t="georgesawyer.20110724121756.3436"><vh>Ctrl+ S</vh></v>
-<v t="georgesawyer.20110724121756.3390"><vh>Ctrl+ Shift+ Z</vh></v>
+<v t="georgesawyer.20110724121756.3390" a="E"><vh>Ctrl+ Shift+</vh>
+<v t="georgesawyer.20110803115044.1677"><vh>Ctrl+ Shift+ C</vh></v>
+<v t="georgesawyer.20110803115044.1676"><vh>Ctrl+ Shift+ V</vh></v>
+<v t="georgesawyer.20110803115044.1675"><vh>Ctrl+ Shift+ X</vh></v>
+<v t="georgesawyer.20110803115044.1673"><vh>Ctrl+ Shift+ Z</vh></v>
+</v>
 <v t="georgesawyer.20110724121756.3434"><vh>Ctrl+ U</vh></v>
 <v t="georgesawyer.20110724121756.3392"><vh>Ctrl+ Z</vh></v>
 <v t="georgesawyer.20110724121756.3393" a="E"><vh>Shift+</vh>
@@ -83,30 +91,35 @@
 </v>
 </v>
 </v>
+</v>
 <v t="georgesawyer.20110724102134.1123" a="E"><vh>Menu</vh>
-<v t="georgesawyer.20110724121756.3397"><vh>Edit</vh>
-<v t="georgesawyer.20110724121756.3398" a="E"><vh>Edit Headline</vh>
+<v t="georgesawyer.20110724121756.3397" a="E"><vh>Edit</vh>
+<v t="georgesawyer.20110724121756.3398"><vh>Edit Headline</vh>
 <v t="georgesawyer.20110724121756.3399"><vh>Edit Headline</vh>
 <v t="georgesawyer.20110724121756.3432"><vh>Same as</vh></v>
 </v>
 </v>
-<v t="georgesawyer.20110724121756.3401"><vh>Redo ...</vh>
-<v t="georgesawyer.20110724121756.3430"><vh>Same as</vh></v>
-</v>
-<v t="georgesawyer.20110724121756.3402"><vh>Undo ...</vh>
-<v t="georgesawyer.20110724121756.3431"><vh>Same as</vh></v>
+<v t="georgesawyer.20110724121756.3401" a="E"><vh>Redo ...</vh>
+<v t="georgesawyer.20110724121756.3430" a="E"><vh>Same as</vh>
+<v t="georgesawyer.20110803115044.1673"></v>
 </v>
 </v>
-<v t="georgesawyer.20110724121756.3403" a="E"><vh>File</vh>
+<v t="georgesawyer.20110724121756.3402" a="E"><vh>Undo ...</vh>
+<v t="georgesawyer.20110724121756.3431" a="E"><vh>Same as</vh>
+<v t="georgesawyer.20110724121756.3392"></v>
+</v>
+</v>
+</v>
+<v t="georgesawyer.20110724121756.3403"><vh>File</vh>
 <v t="georgesawyer.20110727232025.6803"><vh>Import File</vh></v>
-<v t="georgesawyer.20110726113601.1343" a="E"><vh>Read/Write</vh>
+<v t="georgesawyer.20110726113601.1343"><vh>Read/Write</vh>
 <v t="georgesawyer.20110726113601.1344"><vh>Read File Into Node</vh></v>
 </v>
-<v t="georgesawyer.20110724121756.3404" a="E"><vh>Save</vh>
+<v t="georgesawyer.20110724121756.3404"><vh>Save</vh>
 <v t="georgesawyer.20110724121756.3428"><vh>same as</vh></v>
 </v>
 </v>
-<v t="georgesawyer.20110724121756.3405" a="E"><vh>Outline</vh>
+<v t="georgesawyer.20110724121756.3405"><vh>Outline</vh>
 <v t="georgesawyer.20110726113601.1419"><vh>Delete Node</vh></v>
 <v t="georgesawyer.20110726113601.1435" a="E"><vh>Go To</vh>
 <v t="georgesawyer.20110726113601.1436" a="E"><vh>Go To Next Clone</vh>
@@ -122,13 +135,33 @@
 <v t="georgesawyer.20110724121756.3407" a="E"><vh>Move Left</vh>
 <v t="georgesawyer.20110724121756.3425"><vh>Same as</vh></v>
 </v>
-<v t="georgesawyer.20110724121756.3408"><vh>Move Right</vh>
+<v t="georgesawyer.20110724121756.3408" a="E"><vh>Move Right</vh>
 <v t="georgesawyer.20110724121756.3426"><vh>Same as</vh></v>
 </v>
-<v t="georgesawyer.20110724121756.3409"><vh>Move Up</vh>
+<v t="georgesawyer.20110724121756.3409" a="E"><vh>Move Up</vh>
 <v t="georgesawyer.20110724121756.3427"><vh>Same as</vh></v>
 </v>
 </v>
+<v t="georgesawyer.20110803115044.1662"><vh>Paste Node As Clone</vh></v>
+<v t="georgesawyer.20110803115044.1663" a="E"><vh>Cut Node</vh>
+<v t="georgesawyer.20110803115044.1666" a="E"><vh>same as</vh>
+<v t="georgesawyer.20110803115044.1675"></v>
+</v>
+</v>
+<v t="georgesawyer.20110803115044.1664" a="E"><vh>Copy Node</vh>
+<v t="georgesawyer.20110803115044.1668" a="E"><vh>same as</vh>
+<v t="georgesawyer.20110803115044.1677"></v>
+</v>
+</v>
+<v t="georgesawyer.20110803115044.1665" a="E"><vh>Paste Node</vh>
+<v t="georgesawyer.20110803115044.1670" a="E"><vh>same as</vh>
+<v t="georgesawyer.20110803115044.1676"></v>
+</v>
+</v>
+</v>
+<v t="georgesawyer.20110803115044.1630"><vh>Window</vh>
+<v t="georgesawyer.20110803115044.1643"><vh>Equal Sized Panes</vh></v>
+<v t="georgesawyer.20110803115044.1631"><vh>Toggle Split Direction</vh></v>
 </v>
 </v>
 </v>
@@ -177,8 +210,7 @@
 </t>
 <t tx="georgesawyer.20110724121756.3387">Move subtree right
 </t>
-<t tx="georgesawyer.20110724121756.3390">Redo
-</t>
+<t tx="georgesawyer.20110724121756.3390"></t>
 <t tx="georgesawyer.20110724121756.3392">Undo
 </t>
 <t tx="georgesawyer.20110724121756.3393">  @others
@@ -191,8 +223,8 @@
 <t tx="georgesawyer.20110724121756.3397"></t>
 <t tx="georgesawyer.20110724121756.3398"></t>
 <t tx="georgesawyer.20110724121756.3399"></t>
-<t tx="georgesawyer.20110724121756.3401"></t>
-<t tx="georgesawyer.20110724121756.3402"></t>
+<t tx="georgesawyer.20110724121756.3401">See what will be redone</t>
+<t tx="georgesawyer.20110724121756.3402">See what will be undone</t>
 <t tx="georgesawyer.20110724121756.3403"></t>
 <t tx="georgesawyer.20110724121756.3404"></t>
 <t tx="georgesawyer.20110724121756.3405"></t>
@@ -250,5 +282,23 @@ Focus Minibuffer</t>
 <t tx="georgesawyer.20110801203036.6172"></t>
 <t tx="georgesawyer.20110801203036.6173">Main extraction of text to node method.
 extract: first line becomes headline.</t>
+<t tx="georgesawyer.20110803115044.1629"></t>
+<t tx="georgesawyer.20110803115044.1630"></t>
+<t tx="georgesawyer.20110803115044.1631"></t>
+<t tx="georgesawyer.20110803115044.1638">First visible node</t>
+<t tx="georgesawyer.20110803115044.1642">Last visible node</t>
+<t tx="georgesawyer.20110803115044.1643"></t>
+<t tx="georgesawyer.20110803115044.1662"></t>
+<t tx="georgesawyer.20110803115044.1663"></t>
+<t tx="georgesawyer.20110803115044.1664"></t>
+<t tx="georgesawyer.20110803115044.1665"></t>
+<t tx="georgesawyer.20110803115044.1666"></t>
+<t tx="georgesawyer.20110803115044.1668"></t>
+<t tx="georgesawyer.20110803115044.1670"></t>
+<t tx="georgesawyer.20110803115044.1673">Redo
+</t>
+<t tx="georgesawyer.20110803115044.1675">Cut node</t>
+<t tx="georgesawyer.20110803115044.1676">Paste node</t>
+<t tx="georgesawyer.20110803115044.1677">Copy node</t>
 </tnodes>
 </leo_file>

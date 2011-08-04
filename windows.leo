@@ -15,9 +15,6 @@
 <v t="georgesawyer.20110803051734.2141" a="E"><vh>docutils</vh>
 <v t="georgesawyer.20110803051734.2142"><vh>Python window</vh></v>
 </v>
-<v t="georgesawyer.20110803051734.2075" a="E"><vh>multiple development locations</vh>
-<v t="georgesawyer.20110803051734.2076"><vh>shadow files location</vh></v>
-</v>
 <v t="georgesawyer.20110803051734.2037"><vh>keypad digits</vh></v>
 <v t="georgesawyer.20110801054556.1802"><vh>@url</vh></v>
 <v t="georgesawyer.20110802081402.2015"><vh>move this to problems leo</vh></v>
@@ -141,20 +138,6 @@ C:\progra\Leo-4.9-b4\
 will go into effect on the next, new, commnd-line window (make with Win-R).
 make up a Systen variable</t>
 <t tx="georgesawyer.20110803051734.2037">Menu-File-Recent Files-&lt;keypad digit&gt; doesn't open the file, but ...&lt;above home row digit&gt; works.</t>
-<t tx="georgesawyer.20110803051734.2075">Like many people, I switch between computers when I work. Before doing so, I port my changes, by means of version-control software. When I switch computers, I have certain problems.</t>
-<t tx="georgesawyer.20110803051734.2076">My locations for shadow files are the directories, C:\Documents and Settings\Mark\ and C:\Documents and Settings\Megan\ .
-Thus, my shadow files aren`t under the same version-controlled directories as the original (unshadowed) files.
-Typically, when I open a .leo file containing a shadow file reference, I get a message like, "can not open: '@file C:\Documents and Settings\Mark\myfile_thin.py' ".
-As a newby, I noticed this happening in my copy of quickstart.leo.
-I suppose the shadow files and .leo_shadow directory should not be user-specific, but should go in the project directory.
-How is the location configurable? I didn't see that in quickstart.leo.
-Ah--I see a .leo_shadow directory in one of my other projects.
-Just now when I opened the .leo file it created it!
-Also, down from the filesystem root, it says, 'created &lt;directory&gt;'. I see it created the tree just now.
-Caused by my not using relative path in at-path statement.
-And, the .leo_shadow directory is in the right, version-controlled place.
-All is okay.
-</t>
 <t tx="georgesawyer.20110803051734.2077">@language plain
 @nocolor</t>
 <t tx="georgesawyer.20110803051734.2141"></t>

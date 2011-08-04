@@ -11,9 +11,13 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110729074331.1114" a="E"><vh>wishes</vh>
+<v t="georgesawyer.20110803084117.3817" a="E"><vh>multiple development locations</vh>
+<v t="georgesawyer.20110803084117.3819"><vh>MySettings.leo</vh></v>
+<v t="georgesawyer.20110803084117.3818"><vh>shadow files location</vh></v>
+</v>
 <v t="georgesawyer.20110803051734.1771"><vh>cannot open</vh></v>
 <v t="georgesawyer.20110801130621.3462"><vh>gather</vh></v>
-<v t="georgesawyer.20110801054556.1795"><vh>Ctrl+ Q</vh></v>
+<v t="georgesawyer.20110801054556.1795"><vh>quit, Ctrl+ Q</vh></v>
 <v t="georgesawyer.20110730202256.3643"><vh>Alt+ U</vh></v>
 <v t="georgesawyer.20110730202256.1219"><vh>at-url</vh></v>
 <v t="georgesawyer.20110730171633.1463"><vh>navigation</vh></v>
@@ -63,7 +67,8 @@ Uncapitalize the headline first word.</t>
 <t tx="georgesawyer.20110729070114.1558"></t>
 <t tx="georgesawyer.20110729070114.1560"></t>
 <t tx="georgesawyer.20110729070114.1569"></t>
-<t tx="georgesawyer.20110729074331.1114">Things I feel I want to do, as a nooby user.
+<t tx="georgesawyer.20110729074331.1114">@language plain
+Things I feel I want to do, as a nooby user.
 In nooby tutorial, show how, and if necessary, implement.
 Keep my default-opened workbook (TODOs, really) in another location (actually, on Dropbox).
 As part of developing a presentation on Leo, I'm developing a Leo wish list.
@@ -73,7 +78,7 @@ As part of developing a presentation on Leo, I'm developing a Leo wish list.
 <t tx="georgesawyer.20110729093012.1492"></t>
 <t tx="georgesawyer.20110729093012.1493"></t>
 <t tx="georgesawyer.20110729093012.1494">In Leo on Windows, 'Ctrl+ Alt+' keyboard commands are not presently working . The OS launches applications using Windows shortcut keys (Ctrl+ Alt+ &lt;letter (case-insensitive)&gt;), and reboots (or something more sophisticated) with (Ctrl+ Alt+ Del).
-I'm told that Adobe Creative Suite (e.g.) on Windows, Ctrl+ Alt+ S to save a document.
+I`m told that in Adobe Creative Suite (e.g.) on Windows, Ctrl+ Alt+ S to save a document.
 
 Menu-Window-Expand Pane doesn't work, even immediately after Alt+ T.</t>
 <t tx="georgesawyer.20110729093012.1495">Selected text is too close in color to background to see.</t>
@@ -89,12 +94,32 @@ without a node
 (or prior to any nodes) 
 this is so when top-level nodes get moved 
 </t>
-<t tx="georgesawyer.20110730171633.1463">Navigate among the open .leo files with the keyboard, like Ctrl+ Tab and Ctrl+ Shift+ Tab in others</t>
+<t tx="georgesawyer.20110730171633.1463">In the Standard Desktop Interface, while using any multi-document program, we navigate among documents (opened files) with the keyboard using Ctrl+ Tab and Ctrl+ Shift+ Tab. By default, Leo should navigate that way among opened .leo files. It doesn't for me, yet.
+
+In Leo currently, Ctrl+ Tab navigates among panes. (Interestingly, I am aware they are called 'windows' by Emacs.)
+
+I suppose this might be configurable; yet because of newbies, the default should match other programs' behavior as above, such as their browser (SeaMonkey, et al). On Windows, at least, Ctrl+ Tab does this.</t>
 <t tx="georgesawyer.20110730202256.1219">Tutorial 'outlines' 'Opening URLs Automatically' asays brings up page in default browser, but not system default browser for me. IE instead of SeaMonkey.</t>
 <t tx="georgesawyer.20110730202256.1220">Ctrl+ Q quits all. I wish it didn't, as I was viewintg lots of f.files.</t>
 <t tx="georgesawyer.20110730202256.3643">Tutorial-Commands-Using the minibuffer: has a typo of Ctrl-U instead of Alt-U</t>
 <t tx="georgesawyer.20110801054556.1795">Ctrl+ Q quits Leo without confirmation, which is awkward since I had lots of files open and is no 'open last session'.</t>
 <t tx="georgesawyer.20110801130621.3462">ATPM says MORE had 'gather' all find results as clones under current node. How to do?</t>
 <t tx="georgesawyer.20110803051734.1771">Says 'can not open'; more concise is 'cannot open'.</t>
+<t tx="georgesawyer.20110803084117.3817">ssLike many people, I switch between computers as I work. Before doing so, I port my changes, by means of version-control software. When I switch computers, I have certain problems.</t>
+<t tx="georgesawyer.20110803084117.3818">My locations for shadow files are the directories, C:\Documents and Settings\Mark\ and C:\Documents and Settings\Megan\ .
+Thus, my shadow files aren`t under the same version-controlled directories as the original (unshadowed) files.
+Typically, when I open a .leo file containing a shadow file reference, I get a message like, "can not open: '@file C:\Documents and Settings\Mark\myfile_thin.py' ".
+As a newby, I noticed this happening in my copy of quickstart.leo.
+I suppose the shadow files and .leo_shadow directory should not be user-specific, but should go in the project directory.
+How is the location configurable? I didn't see that in quickstart.leo.
+Ah--I see a .leo_shadow directory in one of my other projects.
+Just now when I opened the .leo file it created it!
+Also, down from the filesystem root, it says, 'created &lt;directory&gt;'. I see it created the tree just now.
+Caused by my not using relative path in at-path statement.
+And, the .leo_shadow directory is in the right, version-controlled place.
+All is okay.
+</t>
+<t tx="georgesawyer.20110803084117.3819">My MyLeoSettings file is in my HOME directory, and it doesn`t travel with me. If the files to peruse for settings were configurable, then in all my ~/.leo/MyLeoSettings.leo I could say 'look in my portable Leo folder for another MyLeoSettings.leo'. Then my evolving settings would work, automatically.
+</t>
 </tnodes>
 </leo_file>
