@@ -11,6 +11,9 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110802175116.1241" a="E"><vh>bookmarks</vh>
+<v t="georgesawyer.20110804134710.5894"><vh>Leo</vh></v>
+<v t="georgesawyer.20110804134710.5896"><vh>@url</vh></v>
+<v t="georgesawyer.20110804134710.5897"><vh>@url</vh></v>
 <v t="georgesawyer.20110803103500.1234"><vh>@url</vh></v>
 <v t="georgesawyer.20110803103500.1233"><vh>@url</vh></v>
 <v t="georgesawyer.20110803103500.1232"><vh>@url</vh></v>
@@ -41,5 +44,8 @@
 <t tx="georgesawyer.20110803103500.1232">http://www.codeproject.com/Tips/105638/A-quick-introduction-Create-an-MSI-installer-with-.aspx</t>
 <t tx="georgesawyer.20110803103500.1233">http://wix.tramontana.co.hu/tutorial</t>
 <t tx="georgesawyer.20110803103500.1234">http://wix.tramontana.co.hu/tutorial/user-interface/custom-settings</t>
+<t tx="georgesawyer.20110804134710.5894"></t>
+<t tx="georgesawyer.20110804134710.5896">http://webpages.charter.net/edreamleo/FAQ.html#installing-leo</t>
+<t tx="georgesawyer.20110804134710.5897">http://groups.google.com/group/leo-editor/browse_thread/thread/bfe777a25203cf78?fwc=1</t>
 </tnodes>
 </leo_file>

@@ -11,7 +11,10 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110728215433.1114" a="E"><vh>Presentation: Literate Programming with Leo</vh>
-<v t="georgesawyer.20110803051734.1788"><vh>newHeadline</vh></v>
+<v t="georgesawyer.20110807043147.1558" a="E"><vh>work on</vh>
+<v t="georgesawyer.20110803051734.1788"><vh>What shall I include in the presentation?</vh></v>
+</v>
+<v t="georgesawyer.20110807043147.1552" a="E"><vh>everything else</vh>
 <v t="georgesawyer.20110803051734.1769"><vh>bookmarks</vh></v>
 <v t="georgesawyer.20110801203036.6178"><vh>bug file collector</vh></v>
 <v t="georgesawyer.20110801203036.6179"><vh>cross-cutting concerns file organizer</vh></v>
@@ -28,8 +31,10 @@
 <v t="georgesawyer.20110728215605.1117"><vh>title</vh></v>
 <v t="georgesawyer.20110728215605.1118"><vh>tags</vh></v>
 <v t="georgesawyer.20110728215605.1119" a="E"><vh>content</vh>
+<v t="georgesawyer.20110807043147.1551"><vh>@url</vh></v>
 <v t="georgesawyer.20110803051734.1789" a="E"><vh>@language plain</vh>
 <v t="georgesawyer.20110728225551.1129"><vh>@thin blog-post.txt</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -112,7 +117,10 @@ but you must split apart any line of Ruby code that contains both a left-chevron
 <t tx="georgesawyer.20110801203036.6179"></t>
 <t tx="georgesawyer.20110801203036.6180"></t>
 <t tx="georgesawyer.20110803051734.1769">possibly</t>
-<t tx="georgesawyer.20110803051734.1788"></t>
+<t tx="georgesawyer.20110803051734.1788">i</t>
 <t tx="georgesawyer.20110803051734.1789"></t>
+<t tx="georgesawyer.20110807043147.1551">http://markdblackwell.blogspot.com/2011/07/installing-leo-outlining-editor-on.html</t>
+<t tx="georgesawyer.20110807043147.1552"></t>
+<t tx="georgesawyer.20110807043147.1558"></t>
 </tnodes>
 </leo_file>

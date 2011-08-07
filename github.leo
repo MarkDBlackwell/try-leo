@@ -18,6 +18,8 @@
 </v>
 </v>
 <v t="georgesawyer.20110803115044.1689" a="E"><vh>user</vh>
+<v t="georgesawyer.20110804134710.5931"><vh>Holmes</vh></v>
+<v t="georgesawyer.20110804134710.5932"><vh>disk30</vh></v>
 <v t="georgesawyer.20110803115044.1692"><vh>set up keys</vh></v>
 <v t="georgesawyer.20110803115044.1704" a="E"><vh>public key</vh>
 <v t="georgesawyer.20110803115044.1705"><vh>need</vh></v>
@@ -50,5 +52,7 @@
 <t tx="georgesawyer.20110803115044.1704"></t>
 <t tx="georgesawyer.20110803115044.1705"></t>
 <t tx="georgesawyer.20110803115044.1706"></t>
+<t tx="georgesawyer.20110804134710.5931"></t>
+<t tx="georgesawyer.20110804134710.5932"></t>
 </tnodes>
 </leo_file>

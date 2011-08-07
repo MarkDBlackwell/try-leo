@@ -17,7 +17,13 @@
 </vnodes>
 <tnodes>
 <t tx="georgesawyer.20110729070114.1551"></t>
-<t tx="georgesawyer.20110729070114.1553">Keep the first word in headlines uncapitalized.</t>
+<t tx="georgesawyer.20110729070114.1553">Keep the first word in headlines uncapitalized, except:
+    menu items
+    keyboard key names
+    Leo file titles
+    when there's another reason to:
+      proper nouns
+      acronyms</t>
 <t tx="georgesawyer.20110801203036.6203">have a single, top node so expand to levels works for all nodes.</t>
 </tnodes>
 </leo_file>

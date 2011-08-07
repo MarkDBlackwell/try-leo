@@ -22,6 +22,8 @@
 <v t="georgesawyer.20110801203036.6004" a="E"><vh>problem</vh>
 <v t="georgesawyer.20110801203036.6005" a="E"><vh>data</vh>
 <v t="georgesawyer.20110801203036.6006"><vh>@file test-one.txt</vh></v>
+<v t="georgesawyer.20110804134710.5892"><vh>newHeadline</vh></v>
+<v t="georgesawyer.20110804134710.5893"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -87,5 +89,7 @@ persistently.
 
 Edward 
 </t>
+<t tx="georgesawyer.20110804134710.5892"></t>
+<t tx="georgesawyer.20110804134710.5893"></t>
 </tnodes>
 </leo_file>
