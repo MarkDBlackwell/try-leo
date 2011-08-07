@@ -33,7 +33,7 @@
 <v t="georgesawyer.20110728215605.1119" a="E"><vh>content</vh>
 <v t="georgesawyer.20110807043147.1551"><vh>@url</vh></v>
 <v t="georgesawyer.20110803051734.1789" a="E"><vh>@language plain</vh>
-<v t="georgesawyer.20110728225551.1129"><vh>@thin blog-post.txt</vh></v>
+<v t="georgesawyer.20110728225551.1129"><vh>@thin old-blog-post.txt</vh></v>
 </v>
 </v>
 </v>

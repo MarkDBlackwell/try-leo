@@ -11,13 +11,13 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110801130621.1186" a="E"><vh>Mark Blackwell blog post - Leo</vh>
-<v t="georgesawyer.20110802042134.1225"><vh>text</vh></v>
+<v t="georgesawyer.20110802042134.1225"><vh>old-text</vh></v>
 <v t="georgesawyer.20110802042134.1223"><vh>@url markdblackwell.blogspot.com/2011/07/installing-leo-outlining-editor-on.html</vh></v>
 <v t="georgesawyer.20110801203036.5969"><vh>@url sitemeter.com/</vh></v>
-<v t="georgesawyer.20110801130621.3410"><vh>@file blog-post.txt</vh></v>
-<v t="georgesawyer.20110801130621.3408"><vh>@thin blog-post.txt</vh></v>
-<v t="georgesawyer.20110801130621.3407"><vh>@read-file-into-node blog-post.txt</vh></v>
-<v t="georgesawyer.20110801130621.3409"><vh>@edit blog-post.txt</vh></v>
+<v t="georgesawyer.20110801130621.3410"><vh>@file old-blog-post.txt</vh></v>
+<v t="georgesawyer.20110801130621.3408"><vh>@thin old-blog-post.txt</vh></v>
+<v t="georgesawyer.20110801130621.3407"><vh>@read-file-into-node old-blog-post.txt</vh></v>
+<v t="georgesawyer.20110801130621.3409"><vh>@edit old-blog-post.txt</vh></v>
 </v>
 </vnodes>
 <tnodes>
