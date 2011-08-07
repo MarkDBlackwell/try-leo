@@ -18,7 +18,7 @@
 </v>
 </v>
 <v t="georgesawyer.20110803084117.3455" a="E"><vh>from quickstart.leo</vh>
-<v t="georgesawyer.20110803073613.1133"><vh>@enabled-plugins</vh></v>
+<v t="georgesawyer.20110803073613.1133"><vh>@@enabled-plugins</vh></v>
 <v t="georgesawyer.20110803073613.1134"><vh>@@string initial_split_orientation = horizontal</vh></v>
 <v t="georgesawyer.20110803073613.1135" a="E"><vh>suggested style sheets</vh>
 <v t="georgesawyer.20110803073613.1136" a="E"><vh>default look (Linux)</vh>

@@ -11,6 +11,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110729074331.1114" a="E"><vh>wishes</vh>
+<v t="georgesawyer.20110807080339.1397"><vh>GitHub</vh></v>
 <v t="georgesawyer.20110803084117.3817" a="E"><vh>multiple development locations</vh>
 <v t="georgesawyer.20110803084117.3819"><vh>MySettings.leo</vh></v>
 <v t="georgesawyer.20110803084117.3818"><vh>shadow files location</vh></v>
@@ -105,7 +106,11 @@ I suppose this might be configurable; yet because of newbies, the default should
 <t tx="georgesawyer.20110801054556.1795">Ctrl+ Q quits Leo without confirmation, which is awkward since I had lots of files open and is no 'open last session'.</t>
 <t tx="georgesawyer.20110801130621.3462">ATPM says MORE had 'gather' all find results as clones under current node. How to do?</t>
 <t tx="georgesawyer.20110803051734.1771">Says 'can not open'; more concise is 'cannot open'.</t>
-<t tx="georgesawyer.20110803084117.3817">ssLike many people, I switch between computers as I work. Before doing so, I port my changes, by means of version-control software. When I switch computers, I have certain problems.</t>
+<t tx="georgesawyer.20110803084117.3817">Like many people, I switch between computers as I work.
+
+Before doing so, I port my changes, using version-control software.
+
+When I switch computers, I see certain problems in the current Leo.</t>
 <t tx="georgesawyer.20110803084117.3818">My locations for shadow files are the directories, C:\Documents and Settings\Mark\ and C:\Documents and Settings\Megan\ .
 Thus, my shadow files aren`t under the same version-controlled directories as the original (unshadowed) files.
 Typically, when I open a .leo file containing a shadow file reference, I get a message like, "can not open: '@file C:\Documents and Settings\Mark\myfile_thin.py' ".
@@ -121,5 +126,6 @@ All is okay.
 </t>
 <t tx="georgesawyer.20110803084117.3819">My MyLeoSettings file is in my HOME directory, and it doesn`t travel with me. If the files to peruse for settings were configurable, then in all my ~/.leo/MyLeoSettings.leo I could say 'look in my portable Leo folder for another MyLeoSettings.leo'. Then my evolving settings would work, automatically.
 </t>
+<t tx="georgesawyer.20110807080339.1397"></t>
 </tnodes>
 </leo_file>
