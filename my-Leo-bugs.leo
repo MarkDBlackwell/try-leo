@@ -11,10 +11,12 @@
 <find_panel_settings/>
 <vnodes>
 <v t="markdblackwell.20110814093639.1396" a="E"><vh>my Leo bugs</vh>
+<v t="georgesawyer.20110819095338.1636"><vh>copy subtree containing cloned node</vh></v>
 <v t="markdblackwell.20110814093639.1407"><vh>how to submit</vh></v>
 <v t="markdblackwell.20110814093639.1402"><vh>submitted</vh></v>
 <v t="markdblackwell.20110814093639.1403" a="E"><vh>develop</vh>
-<v t="markdblackwell.20110814093639.1404" a="E"><vh>black background problem</vh>
+<v t="georgesawyer.20110819095338.1265"><vh>node, script</vh></v>
+<v t="markdblackwell.20110814093639.1404"><vh>black background problem</vh>
 <v t="georgesawyer.20110815101730.1395" a="E"><vh>test</vh>
 <v t="georgesawyer.20110815101730.1388" a="E"><vh>set up Windows default colors</vh>
 <v t="georgesawyer.20110815101730.1396"><vh>on Windows XP</vh></v>
@@ -65,6 +67,13 @@ both to purple (they automatically changed together.
 <t tx="georgesawyer.20110815101730.1394"></t>
 <t tx="georgesawyer.20110815101730.1395"></t>
 <t tx="georgesawyer.20110815101730.1396"></t>
+<t tx="georgesawyer.20110819095338.1265">While developing yaml2lilypond
+in a node named, (double chevron) script &gt;&gt;.
+saving gave me orphan node error.
+I had a node of the same name deeper in the tree.
+Renaming just the top one to d.-chevron overall script &gt;&gt;
+made it work, fine.</t>
+<t tx="georgesawyer.20110819095338.1636">When I copied a subtree containing a cloned node, then deleted the original subtree, the cloned node became a simple copy, even though the cloned node had yet other clones.</t>
 <t tx="markdblackwell.20110814093639.1396"></t>
 <t tx="markdblackwell.20110814093639.1402"></t>
 <t tx="markdblackwell.20110814093639.1403"></t>

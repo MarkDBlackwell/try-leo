@@ -11,7 +11,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110724102134.1121" a="E"><vh>Leo cheat sheet</vh>
-<v t="georgesawyer.20110807043147.1555" a="E"><vh>work on</vh>
+<v t="georgesawyer.20110807043147.1555"><vh>work on</vh>
 <v t="georgesawyer.20110807043147.1553" a="E"><vh>wish</vh>
 <v t="georgesawyer.20110807043147.1554"><vh>print</vh></v>
 </v>

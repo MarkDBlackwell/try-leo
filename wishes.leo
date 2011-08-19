@@ -11,6 +11,11 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110729074331.1114" a="E"><vh>wishes</vh>
+<v t="georgesawyer.20110819095338.1637"><vh>page down &amp; selected node</vh></v>
+<v t="georgesawyer.20110819095338.1598"><vh>command, extract</vh></v>
+<v t="georgesawyer.20110819095338.1332"><vh>deleing node</vh></v>
+<v t="georgesawyer.20110819095338.1330"><vh>Outline (Alt+ t) after file switching</vh></v>
+<v t="georgesawyer.20110819095338.1329"><vh>pane sizes</vh></v>
 <v t="georgesawyer.20110807080339.1397"><vh>GitHub</vh></v>
 <v t="georgesawyer.20110803084117.3817" a="E"><vh>multiple development locations</vh>
 <v t="georgesawyer.20110803084117.3819"><vh>MySettings.leo</vh></v>
@@ -127,5 +132,17 @@ All is okay.
 <t tx="georgesawyer.20110803084117.3819">My MyLeoSettings file is in my HOME directory, and it doesn`t travel with me. If the files to peruse for settings were configurable, then in all my ~/.leo/MyLeoSettings.leo I could say 'look in my portable Leo folder for another MyLeoSettings.leo'. Then my evolving settings would work, automatically.
 </t>
 <t tx="georgesawyer.20110807080339.1397"></t>
+<t tx="georgesawyer.20110819095338.1329">Wish that pane sizes were remembered separately for restored and maximized window sizes.
+Possibly some defaults in myLeoSettings.leo.</t>
+<t tx="georgesawyer.20110819095338.1330">Sometimes, after switching to a file with the mouse, perhaps when the log pane is selected,
+Alt+ t will fail to navigate the nodes, and I have to use the mouse to select the outline pane.
+I tried Ctrl+ t, which failed, too.
+Failed after Window-Expand body pane.</t>
+<t tx="georgesawyer.20110819095338.1332">When deleting a node using the menu, I wish the submenu for deletion were not covering the selected node.
+That way, one could verify that the correct node is selected, before finally deleting it.</t>
+<t tx="georgesawyer.20110819095338.1598">wish that command, 'extract' were accessible by a keyboard shortcut
+or menu sequence.</t>
+<t tx="georgesawyer.20110819095338.1637">The page down key doesn't change the selected node
+perhaps it should?</t>
 </tnodes>
 </leo_file>
