@@ -11,6 +11,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="markdblackwell.20110814093639.1396" a="E"><vh>my Leo bugs</vh>
+<v t="markdblackwell.20110824144747.1498"><vh>Find enter</vh></v>
 <v t="georgesawyer.20110819095338.1636"><vh>copy subtree containing cloned node</vh></v>
 <v t="markdblackwell.20110814093639.1407"><vh>how to submit</vh></v>
 <v t="markdblackwell.20110814093639.1402"><vh>submitted</vh></v>
@@ -81,5 +82,6 @@ made it work, fine.</t>
 <t tx="markdblackwell.20110814093639.1405"></t>
 <t tx="markdblackwell.20110814093639.1406"></t>
 <t tx="markdblackwell.20110814093639.1407"></t>
+<t tx="markdblackwell.20110824144747.1498">Menu-Edit-Find-Find All accepts the search string, but doesn`t go anywhere with the number pad Enter key, just the regular one (Enter key).</t>
 </tnodes>
 </leo_file>
