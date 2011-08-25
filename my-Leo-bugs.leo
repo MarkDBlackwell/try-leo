@@ -12,6 +12,8 @@
 <vnodes>
 <v t="markdblackwell.20110814093639.1396" a="E"><vh>my Leo bugs</vh>
 <v t="markdblackwell.20110824144747.1498"><vh>Find enter</vh></v>
+<v t="georgesawyer.20110820144624.1559"><vh>indentation</vh></v>
+<v t="georgesawyer.20110820144624.1558"><vh>root</vh></v>
 <v t="georgesawyer.20110819095338.1636"><vh>copy subtree containing cloned node</vh></v>
 <v t="markdblackwell.20110814093639.1407"><vh>how to submit</vh></v>
 <v t="markdblackwell.20110814093639.1402"><vh>submitted</vh></v>
@@ -75,6 +77,9 @@ I had a node of the same name deeper in the tree.
 Renaming just the top one to d.-chevron overall script &gt;&gt;
 made it work, fine.</t>
 <t tx="georgesawyer.20110819095338.1636">When I copied a subtree containing a cloned node, then deleted the original subtree, the cloned node became a simple copy, even though the cloned node had yet other clones.</t>
+<t tx="georgesawyer.20110820144624.1558">at-root in Ruby, e.g., in class App, defining an instance attribute, at-root, caused Leo not to output that node to the source file that was shadowed.
+</t>
+<t tx="georgesawyer.20110820144624.1559">Ruby only recognizes =begin, =end at column 1.</t>
 <t tx="markdblackwell.20110814093639.1396"></t>
 <t tx="markdblackwell.20110814093639.1402"></t>
 <t tx="markdblackwell.20110814093639.1403"></t>
