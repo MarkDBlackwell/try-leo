@@ -38,7 +38,7 @@
 <v t="georgesawyer.20110724102134.1142" a="E"><vh>sequence</vh>
 <v t="georgesawyer.20110803115044.1629" a="E"><vh>keyboard</vh>
 <v t="georgesawyer.20110724121756.3381"><vh>Alt</vh></v>
-<v t="georgesawyer.20110801203036.6165" a="E"><vh>Alt+</vh>
+<v t="georgesawyer.20110801203036.6165"><vh>Alt+</vh>
 <v t="georgesawyer.20110803115044.1638"><vh>Alt+ Home</vh></v>
 <v t="georgesawyer.20110803115044.1642"><vh>Alt+ End</vh></v>
 <v t="georgesawyer.20110724121756.3380"><vh>Alt+ VerticalArrow</vh></v>
@@ -50,6 +50,15 @@
 <v t="georgesawyer.20110730202256.3641"><vh>Alt+ U</vh></v>
 <v t="georgesawyer.20110730202256.3640"><vh>Alt+ X</vh></v>
 </v>
+<v t="georgesawyer.20110825192845.1709" a="E"><vh>App</vh>
+<v t="georgesawyer.20110825192845.1714"><vh>edit body in external editor</vh></v>
+<v t="georgesawyer.20110825192845.1715" a="E"><vh>App on nodes: @shadow ...</vh>
+<v t="georgesawyer.20110825192845.1711"><vh>edit in external editor</vh></v>
+<v t="georgesawyer.20110825192845.1712"><vh>refresh from disk</vh></v>
+<v t="georgesawyer.20110825192845.1713"><vh>open containing directory</vh></v>
+</v>
+</v>
+<v t="georgesawyer.20110825192845.1710"><vh>newHeadline</vh></v>
 <v t="georgesawyer.20110801203036.6166"><vh>Ctrl+</vh>
 <v t="georgesawyer.20110801203036.6164"><vh>Ctrl+ [</vh></v>
 <v t="georgesawyer.20110801203036.6163"><vh>Ctrl+ ]</vh></v>
@@ -336,5 +345,12 @@ extract: first line becomes headline.</t>
 <t tx="georgesawyer.20110807043147.1553"></t>
 <t tx="georgesawyer.20110807043147.1554">Should be able to print this, and it look nice.</t>
 <t tx="georgesawyer.20110807043147.1555"></t>
+<t tx="georgesawyer.20110825192845.1709"></t>
+<t tx="georgesawyer.20110825192845.1710"></t>
+<t tx="georgesawyer.20110825192845.1711"></t>
+<t tx="georgesawyer.20110825192845.1712"></t>
+<t tx="georgesawyer.20110825192845.1713"></t>
+<t tx="georgesawyer.20110825192845.1714"></t>
+<t tx="georgesawyer.20110825192845.1715"></t>
 </tnodes>
 </leo_file>
