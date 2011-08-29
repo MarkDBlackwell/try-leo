@@ -11,13 +11,14 @@
 <find_panel_settings/>
 <vnodes>
 <v t="georgesawyer.20110729074331.1114" a="E"><vh>wishes</vh>
+<v t="georgesawyer.20110827101921.1627"><vh>indentation</vh></v>
 <v t="georgesawyer.20110819095338.1637"><vh>page down &amp; selected node</vh></v>
 <v t="georgesawyer.20110819095338.1598"><vh>command, extract</vh></v>
-<v t="georgesawyer.20110819095338.1332"><vh>deleing node</vh></v>
+<v t="georgesawyer.20110819095338.1332"><vh>deleting node</vh></v>
 <v t="georgesawyer.20110819095338.1330"><vh>Outline (Alt+ t) after file switching</vh></v>
 <v t="georgesawyer.20110819095338.1329"><vh>pane sizes</vh></v>
 <v t="georgesawyer.20110807080339.1397"><vh>GitHub</vh></v>
-<v t="georgesawyer.20110803084117.3817" a="E"><vh>multiple development locations</vh>
+<v t="georgesawyer.20110803084117.3817"><vh>multiple development locations</vh>
 <v t="georgesawyer.20110803084117.3819"><vh>MySettings.leo</vh></v>
 <v t="georgesawyer.20110803084117.3818"><vh>shadow files location</vh></v>
 </v>
@@ -32,13 +33,13 @@
 <v t="georgesawyer.20110729093012.1495"><vh>colors</vh></v>
 <v t="georgesawyer.20110729093012.1494"><vh>Ctrl+ Alt+</vh></v>
 <v t="georgesawyer.20110729070114.1569"><vh>multi-document save</vh></v>
-<v t="georgesawyer.20110729093012.1488" a="E"><vh>test cut and past between files</vh>
+<v t="georgesawyer.20110729093012.1488"><vh>test cut and past between files</vh>
 <v t="georgesawyer.20110729093012.1489"><vh>subnode</vh></v>
 </v>
-<v t="georgesawyer.20110729093012.1492" a="E"><vh>test cut and paste between files</vh>
+<v t="georgesawyer.20110729093012.1492"><vh>test cut and paste between files</vh>
 <v t="georgesawyer.20110729093012.1493"><vh>subnode</vh></v>
 </v>
-<v t="georgesawyer.20110729070114.1555" a="E"><vh>one click</vh>
+<v t="georgesawyer.20110729070114.1555"><vh>one click</vh>
 <v t="georgesawyer.20110729070114.1554"><vh>headline to body</vh></v>
 <v t="georgesawyer.20110729070114.1557"><vh>body to headline</vh></v>
 <v t="georgesawyer.20110729070114.1558" a="E"><vh>body to node</vh>
@@ -144,5 +145,10 @@ That way, one could verify that the correct node is selected, before finally del
 or menu sequence.</t>
 <t tx="georgesawyer.20110819095338.1637">The page down key doesn't change the selected node
 perhaps it should?</t>
+<t tx="georgesawyer.20110827101921.1627">In other languages than Python, certain things break if they are not at column one. In Ruby:
+* =begin and =end comments
+* unindented here documents (useful with leading spaces in some lines)
+
+can do &lt;&lt;-HEREDOC.gsub(/^ {6}/, '')</t>
 </tnodes>
 </leo_file>

@@ -11,8 +11,13 @@
 <find_panel_settings/>
 <vnodes>
 <v t="markdblackwell.20110814093639.1396" a="E"><vh>my Leo bugs</vh>
+<v t="georgesawyer.20110825192845.1466"><vh>clone expansion</vh></v>
+<v t="georgesawyer.20110825192845.1457"><vh>outline page up/down</vh></v>
+<v t="georgesawyer.20110825192845.1455"><vh>colors inherit from Windows system colors</vh></v>
+<v t="georgesawyer.20110825181048.1348"><vh>install suggestions</vh></v>
+<v t="georgesawyer.20110820144624.1559"><vh>begin,end comments</vh></v>
+<v t="georgesawyer.20110825175129.1486"><vh>refresh from disk</vh></v>
 <v t="markdblackwell.20110824144747.1498"><vh>Find enter</vh></v>
-<v t="georgesawyer.20110820144624.1559"><vh>indentation</vh></v>
 <v t="georgesawyer.20110820144624.1558"><vh>root</vh></v>
 <v t="georgesawyer.20110819095338.1636"><vh>copy subtree containing cloned node</vh></v>
 <v t="markdblackwell.20110814093639.1407"><vh>how to submit</vh></v>
@@ -80,6 +85,17 @@ made it work, fine.</t>
 <t tx="georgesawyer.20110820144624.1558">at-root in Ruby, e.g., in class App, defining an instance attribute, at-root, caused Leo not to output that node to the source file that was shadowed.
 </t>
 <t tx="georgesawyer.20110820144624.1559">Ruby only recognizes =begin, =end at column 1.</t>
+<t tx="georgesawyer.20110825175129.1486">After editing in external editors, I don't know which files to refresh from disk, or how to find all of them.
+I lost a little work by saving Leo file and saying yes.
+after working externally.</t>
+<t tx="georgesawyer.20110825181048.1348">in Leo install quick instructions, suggest:
+    Python add to path env var.
+    install docutils.
+    </t>
+<t tx="georgesawyer.20110825192845.1455">colors should inherit from Windows (or other OS) system colors, for font and pane backgrounds (the main panes: body and outline and log/find/nav and help; I guess all).
+</t>
+<t tx="georgesawyer.20110825192845.1457">outline page up/down moves, but subsequent arrow up starts from  the old location; should be from new, paged location.</t>
+<t tx="georgesawyer.20110825192845.1466">When one clone of a node is collapsed, it shouldn't collapse another open clone of that node, but it does.</t>
 <t tx="markdblackwell.20110814093639.1396"></t>
 <t tx="markdblackwell.20110814093639.1402"></t>
 <t tx="markdblackwell.20110814093639.1403"></t>
