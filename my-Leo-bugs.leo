@@ -11,6 +11,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="markdblackwell.20110814093639.1396" a="E"><vh>my Leo bugs</vh>
+<v t="georgesawyer.20110831082815.1601"><vh>at-language position in body</vh></v>
 <v t="georgesawyer.20110825192845.1466"><vh>clone expansion</vh></v>
 <v t="georgesawyer.20110825192845.1457"><vh>outline page up/down</vh></v>
 <v t="georgesawyer.20110825192845.1455"><vh>colors inherit from Windows system colors</vh></v>
@@ -96,6 +97,7 @@ after working externally.</t>
 </t>
 <t tx="georgesawyer.20110825192845.1457">outline page up/down moves, but subsequent arrow up starts from  the old location; should be from new, paged location.</t>
 <t tx="georgesawyer.20110825192845.1466">When one clone of a node is collapsed, it shouldn't collapse another open clone of that node, but it does.</t>
+<t tx="georgesawyer.20110831082815.1601">When at-language is not at the top of a node's body, it still affects the entire node body -- wish it wouldn't.</t>
 <t tx="markdblackwell.20110814093639.1396"></t>
 <t tx="markdblackwell.20110814093639.1402"></t>
 <t tx="markdblackwell.20110814093639.1403"></t>
