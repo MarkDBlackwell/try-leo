@@ -1,0 +1,4 @@
+#@+leo-ver=5-thin
+#@+node:markdblackwell.20110831121351.1283: * @file try-node-at-file.txt
+ab
+#@-leo
