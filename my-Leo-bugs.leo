@@ -11,6 +11,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="markdblackwell.20110814093639.1396" a="E"><vh>my Leo bugs</vh>
+<v t="markdblackwell.20110914111846.1679"><vh>copy &amp; paste Ctrl+ C</vh></v>
 <v t="georgesawyer.20110831082815.1601"><vh>at-language position in body</vh></v>
 <v t="georgesawyer.20110825192845.1466"><vh>clone expansion</vh></v>
 <v t="georgesawyer.20110825192845.1457"><vh>outline page up/down</vh></v>
@@ -106,5 +107,6 @@ after working externally.</t>
 <t tx="markdblackwell.20110814093639.1406"></t>
 <t tx="markdblackwell.20110814093639.1407"></t>
 <t tx="markdblackwell.20110824144747.1498">Menu-Edit-Find-Find All accepts the search string, but doesn`t go anywhere with the number pad Enter key, just the regular one (Enter key).</t>
+<t tx="markdblackwell.20110914111846.1679">    Menu-Edit  says Copy is Ctrl+ C, but it doesn't work. What works is Shift+ Ctrl+ C.</t>
 </tnodes>
 </leo_file>
